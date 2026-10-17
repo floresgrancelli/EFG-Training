@@ -41,6 +41,14 @@ except ImportError:
     def render_day_watch_summary(*args, **kwargs):
         return None
 from session_detail import render_session_detail
+# Módulo aislado: si falla la presentación de caminatas no debe
+# impedir que se abran las rutinas y el historial de fuerza.
+try:
+    from efg_walks_dashboard import render_walks_dashboard
+except ImportError:
+    def render_walks_dashboard(*args, **kwargs):
+        st.warning("La sección de caminatas no está disponible temporalmente.")
+
 
 st.set_page_config(
     page_title="EFG Training | Strength & Progress",
@@ -244,6 +252,24 @@ def public_apple_watch() -> dict:
         return data if isinstance(data.get("workouts"), list) else {"workouts": [], "_offline": True}
     except (requests.RequestException, ValueError, KeyError, TypeError):
         return {"workouts": [], "_offline": True}
+
+
+@st.cache_data(ttl=45, show_spinner=False)
+def public_walks() -> dict:
+    """Caminatas de capturas, sin conexión con Apple Watch ni datos de fuerza."""
+    try:
+        data, _ = fetch_remote("data/walks.json")
+        if isinstance(data.get("walks"), list):
+            return data
+    except (requests.RequestException, ValueError, KeyError, TypeError):
+        pass
+    # Copia local: la web sigue mostrando los registros ya publicados.
+    try:
+        path = Path(__file__).resolve().parent / "data" / "walks.json"
+        cached = json.loads(path.read_text(encoding="utf-8"))
+        return dict(cached, _offline=True)
+    except (OSError, ValueError, KeyError, TypeError):
+        return {"walks": [], "_offline": True}
 
 
 @st.cache_data(ttl=45, show_spinner=False)
@@ -580,6 +606,8 @@ HISTORY = public_history()
 WEIGHT = public_weight()
 WATCH = public_apple_watch()
 WATCH_WORKOUTS = WATCH.get("workouts", [])
+WALKS = public_walks()
+WALK_SESSIONS = WALKS.get("walks", [])
 MEASUREMENTS = WEIGHT.get("measurements", [])
 SESSIONS = HISTORY.get("sessions", [])
 MONTHLY_MAX = monthly_maximum_weights(ALL_PLAN, SESSIONS)
@@ -593,7 +621,7 @@ announce(
     "Fuerza, método y datos para medir cada avance.",
 )
 
-tabs = st.tabs(["⚡ MI RUTINA", "📋 RUTINA RESUMEN", "⏱️ TEMPORIZADOR", "📊 PROGRESO", "⌚ APPLE WATCH", "📚 HISTORIAL", "⚖️ PESO", "🔐 ADMIN", "🗃️ RUTINAS ANTIGUAS"])
+tabs = st.tabs(["⚡ MI RUTINA", "📋 RUTINA RESUMEN", "⏱️ TEMPORIZADOR", "📊 PROGRESO", "⌚ APPLE WATCH", "🚶 CAMINATAS", "📚 HISTORIAL", "⚖️ PESO", "🔐 ADMIN", "🗃️ RUTINAS ANTIGUAS"])
 
 with tabs[0]:
     st.markdown("### ⚡ Plan de entrenamiento")
@@ -803,6 +831,10 @@ with tabs[4]:
 
 
 with tabs[5]:
+    render_walks_dashboard(WALK_SESSIONS, offline=bool(WALKS.get("_offline")))
+
+
+with tabs[6]:
     st.markdown("### 📚 Historial y evolución de fuerza")
     render_session_detail(SESSIONS)
     st.divider()
@@ -822,7 +854,7 @@ with tabs[5]:
     st.download_button("Descargar nuevo plan de 12 semanas", pd.DataFrame(PLAN).to_csv(index=False).encode("utf-8-sig"), "efg_nuevo_plan_12_semanas.csv", "text/csv", key="new_plan_csv")
 
 
-with tabs[6]:
+with tabs[7]:
     st.markdown("### ⚖️ Evolución del peso corporal")
     st.caption("Mediciones reales, registradas por fecha y visibles para todos.")
     if WEIGHT.get("_offline"):
@@ -830,7 +862,7 @@ with tabs[6]:
     render_weight_chart(MEASUREMENTS)
 
 
-with tabs[7]:
+with tabs[8]:
     st.markdown("### 🔐 Panel de administración")
     st.caption("La aplicación es pública. Este panel requiere tu PIN para guardar o modificar.")
 
@@ -1236,7 +1268,7 @@ with tabs[7]:
                     )
                     st.dataframe(weight_rows, hide_index=True, use_container_width=True)
 
-with tabs[8]:
+with tabs[9]:
     render_archive(LEGACY_PLAN, SESSIONS)
     render_legacy_reports(LEGACY_PLAN, plot_layout)
 
