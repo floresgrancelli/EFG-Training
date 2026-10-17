@@ -12,7 +12,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Verificar sintaxis Python
-        run: python -m py_compile app.py visuals.py watch.py timer.py session_detail.py new_blocks.py block_views.py
+        run: python -m py_compile app.py visuals.py watch.py timer.py session_detail.py new_blocks.py block_views.py efg_watch_dashboard.py efg_walks_dashboard.py
       - name: Validar separación de bloques e identidad de ejercicios
         run: python -m unittest -v test_blocks.py
       - name: Validar el máximo móvil de cargas (sin instalar Streamlit)
@@ -95,7 +95,25 @@ jobs:
           assert isinstance(weights["measurements"], list)
           watch = json.loads((folder / "apple_watch.json").read_text(encoding="utf-8"))
           assert isinstance(watch.get("workouts"), list)
-          print("OK: rutina de 12 semanas, miércoles, historial y reloj")
+
+          walks = json.loads((folder / "walks.json").read_text(encoding="utf-8"))
+          assert isinstance(walks.get("walks"), list)
+          assert len({x["id"] for x in walks["walks"]}) == len(walks["walks"])
+          for item in walks["walks"]:
+              date.fromisoformat(item["date"])
+              assert item["distance_km"] > 0
+              assert item["moving_duration_seconds"] > 0
+              assert item["elapsed_seconds"] >= item["moving_duration_seconds"]
+              assert item["total_kcal"] >= item["active_kcal"] >= 0
+              assert item["capture_only"] is True
+              assert item["belongs_to_strength_session"] is False
+          assert any(
+              x["date"] == "2026-10-17" and x["distance_km"] == 4.57
+              and x["moving_duration_seconds"] == 3081
+              and x["average_hr_bpm"] == 105
+              for x in walks["walks"]
+          )
+          print("OK: rutina, historial, capturas Apple Fitness y caminatas")
           PY
       - name: Verificar arranque de la app Streamlit sin datos externos
         run: |
