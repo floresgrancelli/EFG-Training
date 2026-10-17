@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "note": "Caminatas cargadas manualmente desde capturas de Apple Fitness, sin vinculación ni sincronización automática con el reloj. Se conservan separadas del historial de ejercicios de fuerza. No se almacenan trazados GPS ni direcciones exactas.",
+  "walks": [
+    {
+      "id": "2026-10-17|17:04|outdoor-walk",
+      "date": "2026-10-17",
+      "activity": "Caminata al aire libre",
+      "start_time": "17:04",
+      "end_time": "18:27",
+      "moving_duration_seconds": 3081,
+      "elapsed_seconds": 4972,
+      "distance_km": 4.57,
+      "pace_seconds_per_km": 674,
+      "active_kcal": 224,
+      "total_kcal": 311,
+      "average_hr_bpm": 105,
+      "hr_range_bpm": {
+        "min": 94,
+        "max": 114
+      },
+      "hr_zones_seconds": {
+        "z1": 3066,
+        "z2": 0,
+        "z3": 0,
+        "z4": 0,
+        "z5": 0
+      },
+      "post_workout_hr_bpm": {
+        "at_end": 101,
+        "minute_1": null,
+        "minute_2": null
+      },
+      "elevation_gain_m": 30,
+      "weather_c": 13,
+      "humidity_pct": 60,
+      "location_general": "Tres de Febrero, Buenos Aires",
+      "source": "Capturas manuales de Apple Fitness compartidas el 17/10/2026",
+      "capture_only": true,
+      "belongs_to_strength_session": false,
+      "notes": "Actividad independiente del gimnasio. El tiempo de entrenamiento (51:21) difiere del transcurrido (1:22:52). Las zonas mostradas suman 51:06, por lo que no se interpolan 15 segundos sin registro. Hay segmentos sin lecturas de FC; solo aparece 101 lpm después de finalizar."
+    }
+  ]
+}
