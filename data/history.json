@@ -1558,30 +1558,33 @@
       "exercise": "Sentadilla libre",
       "sets": [
         {
-          "kg": null,
+          "kg": 70,
           "reps": 12,
-          "load_scope": "25 kg por lado + barra de peso desconocido",
-          "load_per_side_kg": 25
+          "load_scope": "peso total: 25 kg por lado + barra de 20 kg",
+          "load_per_side_kg": 25,
+          "bar_kg": 20
         },
         {
-          "kg": null,
+          "kg": 70,
           "reps": 12,
-          "load_scope": "25 kg por lado + barra de peso desconocido",
-          "load_per_side_kg": 25
+          "load_scope": "peso total: 25 kg por lado + barra de 20 kg",
+          "load_per_side_kg": 25,
+          "bar_kg": 20
         },
         {
-          "kg": null,
+          "kg": 70,
           "reps": 12,
-          "load_scope": "25 kg por lado + barra de peso desconocido",
-          "load_per_side_kg": 25
+          "load_scope": "peso total: 25 kg por lado + barra de 20 kg",
+          "load_per_side_kg": 25,
+          "bar_kg": 20
         }
       ],
-      "reported_load_kg": null,
-      "load_scope": "25 kg por lado + barra de peso desconocido",
+      "reported_load_kg": 70,
+      "load_scope": "peso total: 25 kg por lado + barra de 20 kg",
       "reported_sets": 3,
       "record_status": "confirmado",
       "rir": null,
-      "notes": "25 kg por lado en las tres series; peso total sin confirmar.",
+      "notes": "3×12 con 70 kg totales (25 kg por lado y barra olímpica de 20 kg). Confirmado por el usuario.",
       "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
     },
     {
