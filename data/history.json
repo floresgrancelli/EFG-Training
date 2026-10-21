@@ -1420,6 +1420,265 @@
       "rir": null,
       "notes": "",
       "source": "Seguimiento conversacional Edu Fitness, 16/10/2026"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-c1",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-c1",
+      "exercise": "Abdominales cortitos con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Circuito core 3 vueltas.",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-c2",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-c2",
+      "exercise": "Vitalizaciones con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Circuito core 3 vueltas.",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-c3",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-c3",
+      "exercise": "Buenos días con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 18,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Circuito core 3 vueltas.",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-e1",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-e1",
+      "exercise": "Sentadilla en máquina horizontal",
+      "sets": [
+        {
+          "kg": 160,
+          "reps": 12,
+          "load_scope": "carga total de máquina"
+        },
+        {
+          "kg": 160,
+          "reps": 12,
+          "load_scope": "carga total de máquina"
+        },
+        {
+          "kg": 160,
+          "reps": 12,
+          "load_scope": "carga total de máquina"
+        }
+      ],
+      "reported_load_kg": 160,
+      "load_scope": "carga total de máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Poco estímulo percibido; recorrido limitado. No equiparar a sentadilla libre. Máquina pendiente de foto.",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-e2",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-e2",
+      "exercise": "Sentadilla libre",
+      "sets": [
+        {
+          "kg": null,
+          "reps": 12,
+          "load_scope": "25 kg por lado + barra de peso desconocido",
+          "load_per_side_kg": 25
+        },
+        {
+          "kg": null,
+          "reps": 12,
+          "load_scope": "25 kg por lado + barra de peso desconocido",
+          "load_per_side_kg": 25
+        },
+        {
+          "kg": null,
+          "reps": 12,
+          "load_scope": "25 kg por lado + barra de peso desconocido",
+          "load_per_side_kg": 25
+        }
+      ],
+      "reported_load_kg": null,
+      "load_scope": "25 kg por lado + barra de peso desconocido",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "25 kg por lado en las tres series; peso total sin confirmar.",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-e3",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-e3",
+      "exercise": "Curl femoral sentado",
+      "sets": [
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 50,
+      "load_scope": "máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Corrección: sentado, no acostado.",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-e4",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-e4",
+      "exercise": "Extensión de cuádriceps",
+      "sets": [
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 65,
+          "reps": 10,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 70,
+          "reps": 10,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 60,
+      "load_scope": "máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-e5",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-e5",
+      "exercise": "Gemelos sentado",
+      "sets": [
+        {
+          "kg": 35,
+          "reps": 15,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 40,
+          "reps": 15,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 40,
+          "reps": 15,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 35,
+      "load_scope": "máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Corrección: sentado, no de pie.",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
     }
   ],
   "workout_metrics": [
