@@ -1682,6 +1682,262 @@
       "rir": null,
       "notes": "Corrección: sentado, no de pie.",
       "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-c1",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-c1",
+      "exercise": "Giros con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Sustituyó abdominales cortitos. 3 vueltas. No se precisó si las 20 repeticiones son totales o por lado.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-c2",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-c2",
+      "exercise": "Pullover acostado con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Core/activación de espalda, 3 vueltas.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-c3",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-c3",
+      "exercise": "Elevaciones de piernas",
+      "sets": [
+        {
+          "kg": null,
+          "reps": 30,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": null,
+          "reps": 30,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": null,
+          "reps": 30,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_kg": null,
+      "load_scope": "peso corporal",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "3 vueltas. Peso corporal, carga externa no informada.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-e1",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-e1",
+      "exercise": "Jalón al pecho con agarre neutro",
+      "sets": [
+        {
+          "kg": 70,
+          "reps": 10,
+          "load_scope": "máquina/polea"
+        },
+        {
+          "kg": null,
+          "reps": null,
+          "load_scope": "máquina/polea"
+        },
+        {
+          "kg": null,
+          "reps": null,
+          "load_scope": "máquina/polea"
+        }
+      ],
+      "reported_load_kg": 70,
+      "load_scope": "máquina/polea",
+      "reported_sets": 3,
+      "record_status": "parcial; tercera serie por verificar",
+      "rir": null,
+      "notes": "Serie 2 sin datos. Serie 3: ingresadas '99 repeticiones' sin carga; dato atípico pendiente de confirmar, no computado como repeticiones realizadas.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-e2",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-e2",
+      "exercise": "Remo a un brazo con mancuerna",
+      "sets": [
+        {
+          "kg": 32,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 36,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 36,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 32,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Ejercicio real; reemplaza remo con pecho apoyado, no disponible.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-e3",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-e3",
+      "exercise": "Remo bajo en máquina (modelo por confirmar)",
+      "sets": [
+        {
+          "kg": 40,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 40,
+      "load_scope": "máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado; variante por verificar",
+      "rir": null,
+      "notes": "Usuario enviará foto de la máquina de remo bajo para identificación exacta.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-e4",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-e4",
+      "exercise": "Face pull con soga en polea",
+      "sets": [
+        {
+          "kg": 70,
+          "reps": 12,
+          "load_scope": "máquina/polea"
+        },
+        {
+          "kg": 75,
+          "reps": 10,
+          "load_scope": "máquina/polea"
+        },
+        {
+          "kg": 80,
+          "reps": null,
+          "load_scope": "máquina/polea"
+        }
+      ],
+      "reported_load_kg": 70,
+      "load_scope": "máquina/polea",
+      "reported_sets": 3,
+      "record_status": "parcial",
+      "rir": null,
+      "notes": "Reemplaza pec deck inverso que no está disponible. Última serie: 80 kg, repeticiones sin indicar. Carga en kg según formulario; sin equivalencia entre poleas.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-e5",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-e5",
+      "exercise": "Curl con mancuernas",
+      "sets": [
+        {
+          "kg": 20,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": null,
+          "reps": null,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": null,
+          "reps": null,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 20,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "parcial",
+      "rir": null,
+      "notes": "Solo primera serie informada. Las restantes no se completaron en el formulario.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
     }
   ],
   "workout_metrics": [
