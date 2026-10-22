@@ -1849,7 +1849,7 @@
       "week": 1,
       "day": 3,
       "exercise_id": "hp261017-w1-d3-e3",
-      "exercise": "Remo bajo en máquina (modelo por confirmar)",
+      "exercise": "Remo bajo Technogym Low Pull",
       "sets": [
         {
           "kg": 40,
@@ -1872,7 +1872,7 @@
       "reported_sets": 3,
       "record_status": "confirmado; variante por verificar",
       "rir": null,
-      "notes": "Usuario enviará foto de la máquina de remo bajo para identificación exacta.",
+      "notes": "Máquina identificada por foto del usuario (22/10/2026): Technogym Low Pull de remo bajo sentado. Se conservan cargas registradas de máquina de 40/50/60 kg, 12 repeticiones por serie. No se infiere carga por brazo.",
       "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
     },
     {
