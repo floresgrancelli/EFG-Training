@@ -2172,30 +2172,30 @@
       "week": 1,
       "day": 4,
       "exercise_id": "hp261017-w1-d4-extra1",
-      "exercise": "Press de hombros",
+      "exercise": "Press de hombros con mancuernas",
       "sets": [
         {
           "kg": 26,
           "reps": 12,
-          "load_scope": "alcance de carga por confirmar"
+          "load_scope": "por mancuerna"
         },
         {
           "kg": 26,
           "reps": 12,
-          "load_scope": "alcance de carga por confirmar"
+          "load_scope": "por mancuerna"
         },
         {
           "kg": 26,
           "reps": 12,
-          "load_scope": "alcance de carga por confirmar"
+          "load_scope": "por mancuerna"
         }
       ],
       "reported_load_kg": 26,
-      "load_scope": "alcance de carga por confirmar",
+      "load_scope": "por mancuerna",
       "reported_sets": 3,
-      "record_status": "confirmado con detalles pendientes",
+      "record_status": "confirmado",
       "rir": null,
-      "notes": "Extra excepcional porque no entrenará el sábado. No se confirmó si 26 kg es por mancuerna o carga total.",
+      "notes": "3×12 con 26 kg por mancuerna. Ejercicio adicional excepcional.",
       "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
     },
     {
@@ -2204,31 +2204,33 @@
       "week": 1,
       "day": 4,
       "exercise_id": "hp261017-w1-d4-extra2",
-      "exercise": "Vuelos (variante por confirmar), 12 kg",
+      "exercise": "Vuelos laterales con mancuernas — tramo 12 kg",
       "sets": [
         {
           "kg": 12,
           "reps": 12,
-          "load_scope": "alcance de carga por confirmar"
+          "load_scope": "por mancuerna"
         },
         {
           "kg": 12,
           "reps": 12,
-          "load_scope": "alcance de carga por confirmar"
+          "load_scope": "por mancuerna"
         },
         {
           "kg": 12,
           "reps": 12,
-          "load_scope": "alcance de carga por confirmar"
+          "load_scope": "por mancuerna"
         }
       ],
       "reported_load_kg": 12,
-      "load_scope": "alcance de carga por confirmar",
+      "load_scope": "por mancuerna",
       "reported_sets": 3,
-      "record_status": "confirmado con detalles pendientes",
+      "record_status": "confirmado",
       "rir": null,
-      "notes": "Trabajo extra de hombros; no se confirmó variante, alcance de peso ni si fue una superserie con vuelos de 6 kg.",
-      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+      "notes": "Superserie de 3 vueltas: 12 repeticiones con 12 kg por mancuerna, seguidas inmediatamente de 12 repeticiones con 6 kg por mancuerna. Tramo inicial.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes",
+      "set_type": "superserie",
+      "set_group": "H"
     },
     {
       "id": "2026-10-23|hp261017-w1-d4-extra3",
@@ -2236,31 +2238,33 @@
       "week": 1,
       "day": 4,
       "exercise_id": "hp261017-w1-d4-extra3",
-      "exercise": "Vuelos (variante por confirmar), 6 kg",
+      "exercise": "Vuelos laterales con mancuernas — tramo 6 kg",
       "sets": [
         {
           "kg": 6,
           "reps": 12,
-          "load_scope": "alcance de carga por confirmar"
+          "load_scope": "por mancuerna"
         },
         {
           "kg": 6,
           "reps": 12,
-          "load_scope": "alcance de carga por confirmar"
+          "load_scope": "por mancuerna"
         },
         {
           "kg": 6,
           "reps": 12,
-          "load_scope": "alcance de carga por confirmar"
+          "load_scope": "por mancuerna"
         }
       ],
       "reported_load_kg": 6,
-      "load_scope": "alcance de carga por confirmar",
+      "load_scope": "por mancuerna",
       "reported_sets": 3,
-      "record_status": "confirmado con detalles pendientes",
+      "record_status": "confirmado",
       "rir": null,
-      "notes": "Trabajo extra de hombros; 3x12 con 6 kg. No se confirmó si fue continuación, drop set o variante distinta.",
-      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+      "notes": "Superserie de 3 vueltas: tramo de 6 kg por mancuerna inmediatamente después de las 12 repeticiones con 12 kg por mancuerna. No son seis series independientes.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes",
+      "set_type": "superserie",
+      "set_group": "H"
     }
   ],
   "workout_metrics": [
