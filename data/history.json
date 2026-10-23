@@ -1938,6 +1938,329 @@
       "rir": null,
       "notes": "Solo primera serie informada. Las restantes no se completaron en el formulario.",
       "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-c1",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-c1",
+      "exercise": "Plancha frontal",
+      "sets": [
+        {
+          "kg": null,
+          "reps": 50,
+          "load_scope": "peso corporal",
+          "duration_unit": "seconds"
+        },
+        {
+          "kg": null,
+          "reps": 50,
+          "load_scope": "peso corporal",
+          "duration_unit": "seconds"
+        },
+        {
+          "kg": null,
+          "reps": 50,
+          "load_scope": "peso corporal",
+          "duration_unit": "seconds"
+        }
+      ],
+      "reported_load_kg": null,
+      "load_scope": "peso corporal",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Duración expresada en segundos; core triserie de 3 vueltas.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-c2",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-c2",
+      "exercise": "Vitalizaciones con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Core triserie de 3 vueltas.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-c3",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-c3",
+      "exercise": "Buenos días con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Core triserie de 3 vueltas.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-e1",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-e1",
+      "exercise": "Hip thrust con barra libre",
+      "sets": [
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "discos por lado, barra no incluida"
+        },
+        {
+          "kg": 60,
+          "reps": 10,
+          "load_scope": "discos por lado, barra no incluida"
+        },
+        {
+          "kg": 60,
+          "reps": 10,
+          "load_scope": "discos por lado, barra no incluida"
+        }
+      ],
+      "reported_load_kg": 50,
+      "load_scope": "discos por lado, barra no incluida",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Cargas 50/60/60 kg de discos POR LADO. Peso de barra de esta sesión no confirmado; no calcular carga total.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-e2",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-e2",
+      "exercise": "Peso muerto rumano con mancuernas",
+      "sets": [
+        {
+          "kg": 32,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 32,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "3x12 con 32 kg por mancuerna.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-e3",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-e3",
+      "exercise": "Prensa a 45°",
+      "sets": [
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "por lado"
+        },
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "por lado"
+        },
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "por lado"
+        }
+      ],
+      "reported_load_kg": 60,
+      "load_scope": "por lado",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Superserie B con gemelos en prensa, 3 vueltas.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-e4",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-e4",
+      "exercise": "Gemelos en prensa a 45°",
+      "sets": [
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "por lado"
+        },
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "por lado"
+        },
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "por lado"
+        }
+      ],
+      "reported_load_kg": 60,
+      "load_scope": "por lado",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Superserie B con prensa, 3 vueltas.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-extra1",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-extra1",
+      "exercise": "Press de hombros",
+      "sets": [
+        {
+          "kg": 26,
+          "reps": 12,
+          "load_scope": "alcance de carga por confirmar"
+        },
+        {
+          "kg": 26,
+          "reps": 12,
+          "load_scope": "alcance de carga por confirmar"
+        },
+        {
+          "kg": 26,
+          "reps": 12,
+          "load_scope": "alcance de carga por confirmar"
+        }
+      ],
+      "reported_load_kg": 26,
+      "load_scope": "alcance de carga por confirmar",
+      "reported_sets": 3,
+      "record_status": "confirmado con detalles pendientes",
+      "rir": null,
+      "notes": "Extra excepcional porque no entrenará el sábado. No se confirmó si 26 kg es por mancuerna o carga total.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-extra2",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-extra2",
+      "exercise": "Vuelos (variante por confirmar), 12 kg",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 12,
+          "load_scope": "alcance de carga por confirmar"
+        },
+        {
+          "kg": 12,
+          "reps": 12,
+          "load_scope": "alcance de carga por confirmar"
+        },
+        {
+          "kg": 12,
+          "reps": 12,
+          "load_scope": "alcance de carga por confirmar"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "alcance de carga por confirmar",
+      "reported_sets": 3,
+      "record_status": "confirmado con detalles pendientes",
+      "rir": null,
+      "notes": "Trabajo extra de hombros; no se confirmó variante, alcance de peso ni si fue una superserie con vuelos de 6 kg.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-extra3",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-extra3",
+      "exercise": "Vuelos (variante por confirmar), 6 kg",
+      "sets": [
+        {
+          "kg": 6,
+          "reps": 12,
+          "load_scope": "alcance de carga por confirmar"
+        },
+        {
+          "kg": 6,
+          "reps": 12,
+          "load_scope": "alcance de carga por confirmar"
+        },
+        {
+          "kg": 6,
+          "reps": 12,
+          "load_scope": "alcance de carga por confirmar"
+        }
+      ],
+      "reported_load_kg": 6,
+      "load_scope": "alcance de carga por confirmar",
+      "reported_sets": 3,
+      "record_status": "confirmado con detalles pendientes",
+      "rir": null,
+      "notes": "Trabajo extra de hombros; 3x12 con 6 kg. No se confirmó si fue continuación, drop set o variante distinta.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
     }
   ],
   "workout_metrics": [
