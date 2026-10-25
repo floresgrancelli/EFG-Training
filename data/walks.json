@@ -39,6 +39,47 @@
       "capture_only": true,
       "belongs_to_strength_session": false,
       "notes": "Actividad independiente del gimnasio. El tiempo de entrenamiento (51:21) difiere del transcurrido (1:22:52). Las zonas mostradas suman 51:06, por lo que no se interpolan 15 segundos sin registro. Hay segmentos sin lecturas de FC; solo aparece 101 lpm después de finalizar."
+    },
+    {
+      "id": "2026-10-24|10:01|outdoor-walk",
+      "date": "2026-10-24",
+      "activity": "Caminata al aire libre",
+      "start_time": "10:01",
+      "end_time": "11:03",
+      "moving_duration_seconds": 3029,
+      "elapsed_seconds": 3693,
+      "distance_km": 4.37,
+      "pace_seconds_per_km": 692,
+      "active_kcal": 235,
+      "total_kcal": 319,
+      "average_hr_bpm": 104,
+      "hr_range_bpm": {
+        "min": null,
+        "max": null
+      },
+      "hr_zones_seconds": {
+        "z1": 3010,
+        "z2": 0,
+        "z3": 0,
+        "z4": 0,
+        "z5": 0
+      },
+      "post_workout_hr_bpm": {
+        "at_end": 96,
+        "minute_1": 96,
+        "minute_2": 94
+      },
+      "elevation_gain_m": 11,
+      "weather_c": 14,
+      "humidity_pct": 78,
+      "location_general": "Tres de Febrero, Buenos Aires",
+      "source": "Capturas Apple Fitness compartidas el 25/10/2026",
+      "capture_only": true,
+      "belongs_to_strength_session": false,
+      "perceived_effort": 3,
+      "perceived_effort_label": "Fácil",
+      "daily_steps": 11700,
+      "notes": "Caminata 2. Pasos 11.700 corresponden al total diario, no solo a esta caminata. Tiempo por zonas 50:10, 19 segundos no clasificados."
     }
   ]
 }
