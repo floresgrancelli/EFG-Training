@@ -80,6 +80,46 @@
       "perceived_effort_label": "Fácil",
       "daily_steps": 11700,
       "notes": "Caminata 2. Pasos 11.700 corresponden al total diario, no solo a esta caminata. Tiempo por zonas 50:10, 19 segundos no clasificados."
+    },
+    {
+      "id": "2026-10-25|10:12|outdoor-walk",
+      "date": "2026-10-25",
+      "activity": "Caminata al aire libre",
+      "start_time": "10:12",
+      "end_time": "11:17",
+      "moving_duration_seconds": 3255,
+      "elapsed_seconds": 3889,
+      "distance_km": 4.83,
+      "pace_seconds_per_km": 673,
+      "active_kcal": 241,
+      "total_kcal": 331,
+      "average_hr_bpm": 109,
+      "hr_range_bpm": {
+        "min": null,
+        "max": null
+      },
+      "hr_zones_seconds": {
+        "z1": 3249,
+        "z2": 0,
+        "z3": 0,
+        "z4": 0,
+        "z5": 0
+      },
+      "post_workout_hr_bpm": {
+        "at_end": 102,
+        "minute_1": 106,
+        "minute_2": null
+      },
+      "elevation_gain_m": 8,
+      "weather_c": 12,
+      "humidity_pct": 77,
+      "location_general": "Tres de Febrero, Buenos Aires",
+      "source": "Capturas Apple Fitness compartidas el 25/10/2026",
+      "capture_only": true,
+      "belongs_to_strength_session": false,
+      "perceived_effort": 3,
+      "perceived_effort_label": "Fácil",
+      "notes": "Caminata 3. Zona 1 54:09; 6 segundos sin clasificación. Sin trazado GPS. Frecuencia cardíaca de recuperación: 102 lpm al finalizar, 106 lpm al minuto; sin lectura puntual confirmada a los dos minutos."
     }
   ]
 }
