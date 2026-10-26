@@ -5,7 +5,7 @@
   "created_on": "2026-10-17",
   "weeks": 12,
   "days": 5,
-  "source_note": "Versión acordada con Edu. Core de rutina anterior adaptado a dos vueltas. Doce semanas sin cargas futuras inventadas; la estructura se revisa según respuesta y tiempo real. Cambio 22/10/2026: día miércoles modificado con core de 3 vueltas, giros con disco, pullover acostado, elevaciones de piernas, remo a un brazo, remo bajo pendiente de foto y face pull con soga en lugar de pec deck inverso; conservar fechas reales en historial. Ajuste 23/10/2026: jueves con core 3 vueltas, hip thrust barra libre primero, rumano con mancuernas segundo, prensa y gemelos en superserie B, femoral sentado habitual (no realizado el 23/10); hombros del 23/10 solo excepción histórica. | Revisión 25/10/2026 para semanas 2–12: sesiones de 70–80 min, presses de pecho exclusivamente con mancuernas, posteriores con mancuernas, abducción de cadera en jueves en lugar de curl femoral, 3 series en accesorios nuevos de tríceps y curl martillo, principales 4x6–8. Semana 1 histórica intacta.",
+  "source_note": "Versión acordada con Edu. Core de rutina anterior adaptado a dos vueltas. Doce semanas sin cargas futuras inventadas; la estructura se revisa según respuesta y tiempo real. Cambio 22/10/2026: día miércoles modificado con core de 3 vueltas, giros con disco, pullover acostado, elevaciones de piernas, remo a un brazo, remo bajo pendiente de foto y face pull con soga en lugar de pec deck inverso; conservar fechas reales en historial. Ajuste 23/10/2026: jueves con core 3 vueltas, hip thrust barra libre primero, rumano con mancuernas segundo, prensa y gemelos en superserie B, femoral sentado habitual (no realizado el 23/10); hombros del 23/10 solo excepción histórica. | Revisión 25/10/2026 para semanas 2–12: sesiones de 70–80 min, presses de pecho exclusivamente con mancuernas, posteriores con mancuernas, abducción de cadera en jueves en lugar de curl femoral, 3 series en accesorios nuevos de tríceps y curl martillo, principales 4x6–8. Semana 1 histórica intacta. | Corrección 26/10/2026: press hombros mancuerna; laterales sentado mancuerna; tríceps unilateral patada de burro en cable.",
   "entries": [
     {
       "id": "hp261017-w1-d1-c1",
@@ -880,7 +880,7 @@
       "week": 2,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Press de hombros en máquina",
+      "exercise": "Press de hombros con mancuernas",
       "series": "3",
       "repetitions": "6–10",
       "intensity": "RIR 2",
@@ -889,9 +889,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "2–3 min",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Press vertical siempre con mancuernas. Respetar RIR 2 y técnica; controlar molestias del codo.",
       "duration_unit": "reps",
-      "load_scope": "máquina"
+      "load_scope": "por mancuerna"
     },
     {
       "id": "hp261017-w2-d1-e4",
@@ -899,7 +899,7 @@
       "week": 2,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Vuelos laterales en máquina",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -908,8 +908,8 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
-      "load_scope": "máquina",
+      "notes": "Elevaciones laterales sentado, mancuernas; controlar recorrido y evitar balanceo.",
+      "load_scope": "por mancuerna",
       "duration_unit": "reps"
     },
     {
@@ -937,7 +937,7 @@
       "week": 2,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Extensión unilateral de tríceps en polea",
+      "exercise": "Patada de burro de tríceps en cable",
       "series": "3",
       "repetitions": "10–15",
       "intensity": "RIR 2",
@@ -946,9 +946,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Cuidar codo y muñeca; reducir carga o sustituir si hay dolor.",
+      "notes": "Patada de burro unilateral en polea/cable, 3 series por brazo. Evitar dolor en codo.",
       "duration_unit": "reps",
-      "load_scope": "polea"
+      "load_scope": "polea unilateral"
     },
     {
       "id": "hp261017-w2-d2-c1",
@@ -1526,7 +1526,7 @@
       "week": 2,
       "day": 5,
       "day_label": "Viernes",
-      "exercise": "Vuelos laterales con mancuernas",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -1535,7 +1535,7 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Elevaciones laterales sentado con mancuernas; técnica controlada.",
       "duration_unit": "reps",
       "load_scope": "por mancuerna"
     },
@@ -1716,7 +1716,7 @@
       "week": 3,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Press de hombros en máquina",
+      "exercise": "Press de hombros con mancuernas",
       "series": "3",
       "repetitions": "6–10",
       "intensity": "RIR 2",
@@ -1725,9 +1725,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "2–3 min",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Press vertical siempre con mancuernas. Respetar RIR 2 y técnica; controlar molestias del codo.",
       "duration_unit": "reps",
-      "load_scope": "máquina"
+      "load_scope": "por mancuerna"
     },
     {
       "id": "hp261017-w3-d1-e4",
@@ -1735,7 +1735,7 @@
       "week": 3,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Vuelos laterales en máquina",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -1744,8 +1744,8 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
-      "load_scope": "máquina",
+      "notes": "Elevaciones laterales sentado, mancuernas; controlar recorrido y evitar balanceo.",
+      "load_scope": "por mancuerna",
       "duration_unit": "reps"
     },
     {
@@ -1773,7 +1773,7 @@
       "week": 3,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Extensión unilateral de tríceps en polea",
+      "exercise": "Patada de burro de tríceps en cable",
       "series": "3",
       "repetitions": "10–15",
       "intensity": "RIR 2",
@@ -1782,9 +1782,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Cuidar codo y muñeca; reducir carga o sustituir si hay dolor.",
+      "notes": "Patada de burro unilateral en polea/cable, 3 series por brazo. Evitar dolor en codo.",
       "duration_unit": "reps",
-      "load_scope": "polea"
+      "load_scope": "polea unilateral"
     },
     {
       "id": "hp261017-w3-d2-c1",
@@ -2362,7 +2362,7 @@
       "week": 3,
       "day": 5,
       "day_label": "Viernes",
-      "exercise": "Vuelos laterales con mancuernas",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -2371,7 +2371,7 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Elevaciones laterales sentado con mancuernas; técnica controlada.",
       "duration_unit": "reps",
       "load_scope": "por mancuerna"
     },
@@ -2552,7 +2552,7 @@
       "week": 4,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Press de hombros en máquina",
+      "exercise": "Press de hombros con mancuernas",
       "series": "3",
       "repetitions": "6–10",
       "intensity": "RIR 2",
@@ -2561,9 +2561,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "2–3 min",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Press vertical siempre con mancuernas. Respetar RIR 2 y técnica; controlar molestias del codo.",
       "duration_unit": "reps",
-      "load_scope": "máquina"
+      "load_scope": "por mancuerna"
     },
     {
       "id": "hp261017-w4-d1-e4",
@@ -2571,7 +2571,7 @@
       "week": 4,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Vuelos laterales en máquina",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -2580,8 +2580,8 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
-      "load_scope": "máquina",
+      "notes": "Elevaciones laterales sentado, mancuernas; controlar recorrido y evitar balanceo.",
+      "load_scope": "por mancuerna",
       "duration_unit": "reps"
     },
     {
@@ -2609,7 +2609,7 @@
       "week": 4,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Extensión unilateral de tríceps en polea",
+      "exercise": "Patada de burro de tríceps en cable",
       "series": "3",
       "repetitions": "10–15",
       "intensity": "RIR 2",
@@ -2618,9 +2618,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Cuidar codo y muñeca; reducir carga o sustituir si hay dolor.",
+      "notes": "Patada de burro unilateral en polea/cable, 3 series por brazo. Evitar dolor en codo.",
       "duration_unit": "reps",
-      "load_scope": "polea"
+      "load_scope": "polea unilateral"
     },
     {
       "id": "hp261017-w4-d2-c1",
@@ -3198,7 +3198,7 @@
       "week": 4,
       "day": 5,
       "day_label": "Viernes",
-      "exercise": "Vuelos laterales con mancuernas",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -3207,7 +3207,7 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Elevaciones laterales sentado con mancuernas; técnica controlada.",
       "duration_unit": "reps",
       "load_scope": "por mancuerna"
     },
@@ -3388,7 +3388,7 @@
       "week": 5,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Press de hombros en máquina",
+      "exercise": "Press de hombros con mancuernas",
       "series": "3",
       "repetitions": "6–10",
       "intensity": "RIR 2",
@@ -3397,9 +3397,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "2–3 min",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Press vertical siempre con mancuernas. Respetar RIR 2 y técnica; controlar molestias del codo.",
       "duration_unit": "reps",
-      "load_scope": "máquina"
+      "load_scope": "por mancuerna"
     },
     {
       "id": "hp261017-w5-d1-e4",
@@ -3407,7 +3407,7 @@
       "week": 5,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Vuelos laterales en máquina",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -3416,8 +3416,8 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
-      "load_scope": "máquina",
+      "notes": "Elevaciones laterales sentado, mancuernas; controlar recorrido y evitar balanceo.",
+      "load_scope": "por mancuerna",
       "duration_unit": "reps"
     },
     {
@@ -3445,7 +3445,7 @@
       "week": 5,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Extensión unilateral de tríceps en polea",
+      "exercise": "Patada de burro de tríceps en cable",
       "series": "3",
       "repetitions": "10–15",
       "intensity": "RIR 2",
@@ -3454,9 +3454,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Cuidar codo y muñeca; reducir carga o sustituir si hay dolor.",
+      "notes": "Patada de burro unilateral en polea/cable, 3 series por brazo. Evitar dolor en codo.",
       "duration_unit": "reps",
-      "load_scope": "polea"
+      "load_scope": "polea unilateral"
     },
     {
       "id": "hp261017-w5-d2-c1",
@@ -4034,7 +4034,7 @@
       "week": 5,
       "day": 5,
       "day_label": "Viernes",
-      "exercise": "Vuelos laterales con mancuernas",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -4043,7 +4043,7 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Elevaciones laterales sentado con mancuernas; técnica controlada.",
       "duration_unit": "reps",
       "load_scope": "por mancuerna"
     },
@@ -4224,7 +4224,7 @@
       "week": 6,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Press de hombros en máquina",
+      "exercise": "Press de hombros con mancuernas",
       "series": "3",
       "repetitions": "6–10",
       "intensity": "RIR 2",
@@ -4233,9 +4233,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "2–3 min",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Press vertical siempre con mancuernas. Respetar RIR 2 y técnica; controlar molestias del codo.",
       "duration_unit": "reps",
-      "load_scope": "máquina"
+      "load_scope": "por mancuerna"
     },
     {
       "id": "hp261017-w6-d1-e4",
@@ -4243,7 +4243,7 @@
       "week": 6,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Vuelos laterales en máquina",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -4252,8 +4252,8 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
-      "load_scope": "máquina",
+      "notes": "Elevaciones laterales sentado, mancuernas; controlar recorrido y evitar balanceo.",
+      "load_scope": "por mancuerna",
       "duration_unit": "reps"
     },
     {
@@ -4281,7 +4281,7 @@
       "week": 6,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Extensión unilateral de tríceps en polea",
+      "exercise": "Patada de burro de tríceps en cable",
       "series": "3",
       "repetitions": "10–15",
       "intensity": "RIR 2",
@@ -4290,9 +4290,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Cuidar codo y muñeca; reducir carga o sustituir si hay dolor.",
+      "notes": "Patada de burro unilateral en polea/cable, 3 series por brazo. Evitar dolor en codo.",
       "duration_unit": "reps",
-      "load_scope": "polea"
+      "load_scope": "polea unilateral"
     },
     {
       "id": "hp261017-w6-d2-c1",
@@ -4870,7 +4870,7 @@
       "week": 6,
       "day": 5,
       "day_label": "Viernes",
-      "exercise": "Vuelos laterales con mancuernas",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -4879,7 +4879,7 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Elevaciones laterales sentado con mancuernas; técnica controlada.",
       "duration_unit": "reps",
       "load_scope": "por mancuerna"
     },
@@ -5060,7 +5060,7 @@
       "week": 7,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Press de hombros en máquina",
+      "exercise": "Press de hombros con mancuernas",
       "series": "3",
       "repetitions": "6–10",
       "intensity": "RIR 2",
@@ -5069,9 +5069,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "2–3 min",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Press vertical siempre con mancuernas. Respetar RIR 2 y técnica; controlar molestias del codo.",
       "duration_unit": "reps",
-      "load_scope": "máquina"
+      "load_scope": "por mancuerna"
     },
     {
       "id": "hp261017-w7-d1-e4",
@@ -5079,7 +5079,7 @@
       "week": 7,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Vuelos laterales en máquina",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -5088,8 +5088,8 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
-      "load_scope": "máquina",
+      "notes": "Elevaciones laterales sentado, mancuernas; controlar recorrido y evitar balanceo.",
+      "load_scope": "por mancuerna",
       "duration_unit": "reps"
     },
     {
@@ -5117,7 +5117,7 @@
       "week": 7,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Extensión unilateral de tríceps en polea",
+      "exercise": "Patada de burro de tríceps en cable",
       "series": "3",
       "repetitions": "10–15",
       "intensity": "RIR 2",
@@ -5126,9 +5126,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Cuidar codo y muñeca; reducir carga o sustituir si hay dolor.",
+      "notes": "Patada de burro unilateral en polea/cable, 3 series por brazo. Evitar dolor en codo.",
       "duration_unit": "reps",
-      "load_scope": "polea"
+      "load_scope": "polea unilateral"
     },
     {
       "id": "hp261017-w7-d2-c1",
@@ -5706,7 +5706,7 @@
       "week": 7,
       "day": 5,
       "day_label": "Viernes",
-      "exercise": "Vuelos laterales con mancuernas",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -5715,7 +5715,7 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Elevaciones laterales sentado con mancuernas; técnica controlada.",
       "duration_unit": "reps",
       "load_scope": "por mancuerna"
     },
@@ -5896,7 +5896,7 @@
       "week": 8,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Press de hombros en máquina",
+      "exercise": "Press de hombros con mancuernas",
       "series": "3",
       "repetitions": "6–10",
       "intensity": "RIR 2",
@@ -5905,9 +5905,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "2–3 min",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Press vertical siempre con mancuernas. Respetar RIR 2 y técnica; controlar molestias del codo.",
       "duration_unit": "reps",
-      "load_scope": "máquina"
+      "load_scope": "por mancuerna"
     },
     {
       "id": "hp261017-w8-d1-e4",
@@ -5915,7 +5915,7 @@
       "week": 8,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Vuelos laterales en máquina",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -5924,8 +5924,8 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
-      "load_scope": "máquina",
+      "notes": "Elevaciones laterales sentado, mancuernas; controlar recorrido y evitar balanceo.",
+      "load_scope": "por mancuerna",
       "duration_unit": "reps"
     },
     {
@@ -5953,7 +5953,7 @@
       "week": 8,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Extensión unilateral de tríceps en polea",
+      "exercise": "Patada de burro de tríceps en cable",
       "series": "3",
       "repetitions": "10–15",
       "intensity": "RIR 2",
@@ -5962,9 +5962,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Cuidar codo y muñeca; reducir carga o sustituir si hay dolor.",
+      "notes": "Patada de burro unilateral en polea/cable, 3 series por brazo. Evitar dolor en codo.",
       "duration_unit": "reps",
-      "load_scope": "polea"
+      "load_scope": "polea unilateral"
     },
     {
       "id": "hp261017-w8-d2-c1",
@@ -6542,7 +6542,7 @@
       "week": 8,
       "day": 5,
       "day_label": "Viernes",
-      "exercise": "Vuelos laterales con mancuernas",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -6551,7 +6551,7 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Elevaciones laterales sentado con mancuernas; técnica controlada.",
       "duration_unit": "reps",
       "load_scope": "por mancuerna"
     },
@@ -6732,7 +6732,7 @@
       "week": 9,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Press de hombros en máquina",
+      "exercise": "Press de hombros con mancuernas",
       "series": "3",
       "repetitions": "6–10",
       "intensity": "RIR 2",
@@ -6741,9 +6741,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "2–3 min",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Press vertical siempre con mancuernas. Respetar RIR 2 y técnica; controlar molestias del codo.",
       "duration_unit": "reps",
-      "load_scope": "máquina"
+      "load_scope": "por mancuerna"
     },
     {
       "id": "hp261017-w9-d1-e4",
@@ -6751,7 +6751,7 @@
       "week": 9,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Vuelos laterales en máquina",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -6760,8 +6760,8 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
-      "load_scope": "máquina",
+      "notes": "Elevaciones laterales sentado, mancuernas; controlar recorrido y evitar balanceo.",
+      "load_scope": "por mancuerna",
       "duration_unit": "reps"
     },
     {
@@ -6789,7 +6789,7 @@
       "week": 9,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Extensión unilateral de tríceps en polea",
+      "exercise": "Patada de burro de tríceps en cable",
       "series": "3",
       "repetitions": "10–15",
       "intensity": "RIR 2",
@@ -6798,9 +6798,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Cuidar codo y muñeca; reducir carga o sustituir si hay dolor.",
+      "notes": "Patada de burro unilateral en polea/cable, 3 series por brazo. Evitar dolor en codo.",
       "duration_unit": "reps",
-      "load_scope": "polea"
+      "load_scope": "polea unilateral"
     },
     {
       "id": "hp261017-w9-d2-c1",
@@ -7378,7 +7378,7 @@
       "week": 9,
       "day": 5,
       "day_label": "Viernes",
-      "exercise": "Vuelos laterales con mancuernas",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -7387,7 +7387,7 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Elevaciones laterales sentado con mancuernas; técnica controlada.",
       "duration_unit": "reps",
       "load_scope": "por mancuerna"
     },
@@ -7568,7 +7568,7 @@
       "week": 10,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Press de hombros en máquina",
+      "exercise": "Press de hombros con mancuernas",
       "series": "3",
       "repetitions": "6–10",
       "intensity": "RIR 2",
@@ -7577,9 +7577,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "2–3 min",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Press vertical siempre con mancuernas. Respetar RIR 2 y técnica; controlar molestias del codo.",
       "duration_unit": "reps",
-      "load_scope": "máquina"
+      "load_scope": "por mancuerna"
     },
     {
       "id": "hp261017-w10-d1-e4",
@@ -7587,7 +7587,7 @@
       "week": 10,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Vuelos laterales en máquina",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -7596,8 +7596,8 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
-      "load_scope": "máquina",
+      "notes": "Elevaciones laterales sentado, mancuernas; controlar recorrido y evitar balanceo.",
+      "load_scope": "por mancuerna",
       "duration_unit": "reps"
     },
     {
@@ -7625,7 +7625,7 @@
       "week": 10,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Extensión unilateral de tríceps en polea",
+      "exercise": "Patada de burro de tríceps en cable",
       "series": "3",
       "repetitions": "10–15",
       "intensity": "RIR 2",
@@ -7634,9 +7634,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Cuidar codo y muñeca; reducir carga o sustituir si hay dolor.",
+      "notes": "Patada de burro unilateral en polea/cable, 3 series por brazo. Evitar dolor en codo.",
       "duration_unit": "reps",
-      "load_scope": "polea"
+      "load_scope": "polea unilateral"
     },
     {
       "id": "hp261017-w10-d2-c1",
@@ -8214,7 +8214,7 @@
       "week": 10,
       "day": 5,
       "day_label": "Viernes",
-      "exercise": "Vuelos laterales con mancuernas",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -8223,7 +8223,7 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Elevaciones laterales sentado con mancuernas; técnica controlada.",
       "duration_unit": "reps",
       "load_scope": "por mancuerna"
     },
@@ -8404,7 +8404,7 @@
       "week": 11,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Press de hombros en máquina",
+      "exercise": "Press de hombros con mancuernas",
       "series": "3",
       "repetitions": "6–10",
       "intensity": "RIR 2",
@@ -8413,9 +8413,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "2–3 min",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Press vertical siempre con mancuernas. Respetar RIR 2 y técnica; controlar molestias del codo.",
       "duration_unit": "reps",
-      "load_scope": "máquina"
+      "load_scope": "por mancuerna"
     },
     {
       "id": "hp261017-w11-d1-e4",
@@ -8423,7 +8423,7 @@
       "week": 11,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Vuelos laterales en máquina",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -8432,8 +8432,8 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
-      "load_scope": "máquina",
+      "notes": "Elevaciones laterales sentado, mancuernas; controlar recorrido y evitar balanceo.",
+      "load_scope": "por mancuerna",
       "duration_unit": "reps"
     },
     {
@@ -8461,7 +8461,7 @@
       "week": 11,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Extensión unilateral de tríceps en polea",
+      "exercise": "Patada de burro de tríceps en cable",
       "series": "3",
       "repetitions": "10–15",
       "intensity": "RIR 2",
@@ -8470,9 +8470,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Cuidar codo y muñeca; reducir carga o sustituir si hay dolor.",
+      "notes": "Patada de burro unilateral en polea/cable, 3 series por brazo. Evitar dolor en codo.",
       "duration_unit": "reps",
-      "load_scope": "polea"
+      "load_scope": "polea unilateral"
     },
     {
       "id": "hp261017-w11-d2-c1",
@@ -9050,7 +9050,7 @@
       "week": 11,
       "day": 5,
       "day_label": "Viernes",
-      "exercise": "Vuelos laterales con mancuernas",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -9059,7 +9059,7 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Elevaciones laterales sentado con mancuernas; técnica controlada.",
       "duration_unit": "reps",
       "load_scope": "por mancuerna"
     },
@@ -9240,7 +9240,7 @@
       "week": 12,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Press de hombros en máquina",
+      "exercise": "Press de hombros con mancuernas",
       "series": "3",
       "repetitions": "6–10",
       "intensity": "RIR 2",
@@ -9249,9 +9249,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "2–3 min",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Press vertical siempre con mancuernas. Respetar RIR 2 y técnica; controlar molestias del codo.",
       "duration_unit": "reps",
-      "load_scope": "máquina"
+      "load_scope": "por mancuerna"
     },
     {
       "id": "hp261017-w12-d1-e4",
@@ -9259,7 +9259,7 @@
       "week": 12,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Vuelos laterales en máquina",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -9268,8 +9268,8 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
-      "load_scope": "máquina",
+      "notes": "Elevaciones laterales sentado, mancuernas; controlar recorrido y evitar balanceo.",
+      "load_scope": "por mancuerna",
       "duration_unit": "reps"
     },
     {
@@ -9297,7 +9297,7 @@
       "week": 12,
       "day": 1,
       "day_label": "Lunes",
-      "exercise": "Extensión unilateral de tríceps en polea",
+      "exercise": "Patada de burro de tríceps en cable",
       "series": "3",
       "repetitions": "10–15",
       "intensity": "RIR 2",
@@ -9306,9 +9306,9 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Cuidar codo y muñeca; reducir carga o sustituir si hay dolor.",
+      "notes": "Patada de burro unilateral en polea/cable, 3 series por brazo. Evitar dolor en codo.",
       "duration_unit": "reps",
-      "load_scope": "polea"
+      "load_scope": "polea unilateral"
     },
     {
       "id": "hp261017-w12-d2-c1",
@@ -9886,7 +9886,7 @@
       "week": 12,
       "day": 5,
       "day_label": "Viernes",
-      "exercise": "Vuelos laterales con mancuernas",
+      "exercise": "Vuelos laterales sentado con mancuernas",
       "series": "3",
       "repetitions": "12–15",
       "intensity": "RIR 2",
@@ -9895,7 +9895,7 @@
       "set_type": "individual",
       "set_group": "",
       "rest": "90 s",
-      "notes": "Progresión por repeticiones con técnica controlada; no forzar dolor.",
+      "notes": "Elevaciones laterales sentado con mancuernas; técnica controlada.",
       "duration_unit": "reps",
       "load_scope": "por mancuerna"
     },
