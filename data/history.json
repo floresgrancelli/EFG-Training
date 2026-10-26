@@ -2265,6 +2265,331 @@
       "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes",
       "set_type": "superserie",
       "set_group": "H"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-c1",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-c1",
+      "exercise": "Sit ups con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Core efectivamente realizado; 3 series de 20 reps.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-c2",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-c2",
+      "exercise": "Pullover con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Core realizado hoy a pesar de que el plan para próximas sesiones se había cambiado por abdominales cortitos. Registrar ejecución real, conservar la sustitución programada.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-c3",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-c3",
+      "exercise": "Espinales en colchoneta",
+      "sets": [
+        {
+          "kg": null,
+          "reps": 20,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": null,
+          "reps": 20,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": null,
+          "reps": 20,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_kg": null,
+      "load_scope": "peso corporal",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Sin peso externo declarado.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-e1",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-e1",
+      "exercise": "Press inclinado con mancuernas",
+      "sets": [
+        {
+          "kg": 32,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 7,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 32,
+      "load_scope": "por mancuerna",
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Carga por mancuerna inferida de la variante e historial.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-v2e2",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-v2e2",
+      "exercise": "Press plano con mancuernas",
+      "sets": [
+        {
+          "kg": 32,
+          "reps": 6,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 6,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 6,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 32,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "6 repeticiones por serie; dato real, por debajo del objetivo inicial 8–12.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-e3",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-e3",
+      "exercise": "Pec deck",
+      "sets": [
+        {
+          "kg": 80,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 80,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 80,
+          "reps": 12,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 80,
+      "load_scope": "máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Máquina; peso informado en kg.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-v2e4",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-v2e4",
+      "exercise": "Press de hombros con mancuernas",
+      "sets": [
+        {
+          "kg": 26,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 26,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 26,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 26,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Corregido desde nombre mostrado máquina: realmente mancuernas.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-e4",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-e4",
+      "exercise": "Vuelos laterales sentado con mancuernas",
+      "sets": [
+        {
+          "kg": 10,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 10,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 10,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 10,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Realizado sentado con mancuernas, no máquina.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-e5",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-e5",
+      "exercise": "Extensión de tríceps con cuerda",
+      "sets": [
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "polea"
+        },
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "polea"
+        },
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "polea"
+        }
+      ],
+      "reported_load_kg": 80,
+      "load_scope": "polea",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "80 kg transcritos exactamente como los indicó el usuario, pese a diferencia respecto del registro anterior; confirmar unidades del equipo en próxima sesión.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-v2e7",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-v2e7",
+      "exercise": "Patada de burro de tríceps en cable",
+      "sets": [
+        {
+          "kg": 15,
+          "reps": 12,
+          "load_scope": "polea unilateral"
+        },
+        {
+          "kg": 15,
+          "reps": 12,
+          "load_scope": "polea unilateral"
+        },
+        {
+          "kg": 15,
+          "reps": 12,
+          "load_scope": "polea unilateral"
+        }
+      ],
+      "reported_load_kg": 15,
+      "load_scope": "polea unilateral",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Corrección explícita del usuario: patada de burro en cable, no extensión unilateral genérica.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
     }
   ],
   "workout_metrics": [
