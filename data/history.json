@@ -2590,6 +2590,272 @@
       "rir": null,
       "notes": "Corrección explícita del usuario: patada de burro en cable, no extensión unilateral genérica.",
       "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-c1",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-c1",
+      "exercise": "Abdominales cortitos con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "3 vueltas Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-c2",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-c2",
+      "exercise": "Vitalizaciones con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "3 vueltas Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-c3",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-c3",
+      "exercise": "Buenos días con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "3 vueltas Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-e5",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-e5",
+      "exercise": "Sentadilla libre",
+      "sets": [
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "peso total con barra"
+        },
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "peso total con barra"
+        },
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "peso total con barra"
+        },
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "peso total con barra"
+        }
+      ],
+      "reported_load_kg": 80,
+      "load_scope": "peso total con barra",
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Barra incluida en los 80 kg, según registro previo de sentadilla; confirmar si la barra usada fue distinta. Molestia lateral de cadera durante sentadilla. Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-e1",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-e1",
+      "exercise": "Prensa horizontal Technogym (asiento deslizante)",
+      "sets": [
+        {
+          "kg": 160,
+          "reps": 15,
+          "load_scope": "carga total indicada en máquina"
+        },
+        {
+          "kg": 160,
+          "reps": 15,
+          "load_scope": "carga total indicada en máquina"
+        },
+        {
+          "kg": 160,
+          "reps": 15,
+          "load_scope": "carga total indicada en máquina"
+        }
+      ],
+      "reported_load_kg": 160,
+      "load_scope": "carga total indicada en máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-e2",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-e2",
+      "exercise": "Curl femoral sentado",
+      "sets": [
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 50,
+      "load_scope": "máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-e3",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-e3",
+      "exercise": "Extensión de cuádriceps",
+      "sets": [
+        {
+          "kg": 65,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 70,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 75,
+          "reps": 10,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 75,
+      "load_scope": "máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-e4",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-e4",
+      "exercise": "Gemelos de pie",
+      "sets": [
+        {
+          "kg": 35,
+          "reps": 15,
+          "load_scope": "carga informada; equipo no especificado"
+        },
+        {
+          "kg": 40,
+          "reps": 15,
+          "load_scope": "carga informada; equipo no especificado"
+        },
+        {
+          "kg": 45,
+          "reps": 15,
+          "load_scope": "carga informada; equipo no especificado"
+        },
+        {
+          "kg": 50,
+          "reps": 15,
+          "load_scope": "carga informada; equipo no especificado"
+        }
+      ],
+      "reported_load_kg": 50,
+      "load_scope": "carga informada; equipo no especificado",
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Usuario corrige explícitamente gemelos parado, no sentado. No comparar directamente carga con gemelos sentado. Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
     }
   ],
   "workout_metrics": [
