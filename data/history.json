@@ -2856,6 +2856,299 @@
       "rir": null,
       "notes": "Usuario corrige explícitamente gemelos parado, no sentado. No comparar directamente carga con gemelos sentado. Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
       "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-c1",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-c1",
+      "exercise": "Giros con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "disco",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-c2",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-c2",
+      "exercise": "Pullover acostado con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "disco",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-c3",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-c3",
+      "exercise": "Elevaciones de piernas",
+      "sets": [
+        {
+          "kg": 0,
+          "reps": 30,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 30,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 30,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_kg": 0,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "peso corporal",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-e1",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-e1",
+      "exercise": "Jalón al pecho con agarre neutro",
+      "sets": [
+        {
+          "kg": 70,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 75,
+          "reps": 10,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 85,
+          "reps": 8,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 85,
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "load_scope": "máquina",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-e2",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-e2",
+      "exercise": "Remo a un brazo con mancuerna",
+      "sets": [
+        {
+          "kg": 36,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 36,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 36,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 36,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "por mancuerna",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-e3",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-e3",
+      "exercise": "Remo bajo Technogym Low Pull",
+      "sets": [
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 60,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "máquina",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-e4",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-e4",
+      "exercise": "Face pull con soga en polea",
+      "sets": [
+        {
+          "kg": 80,
+          "reps": 12,
+          "load_scope": "polea"
+        },
+        {
+          "kg": 85,
+          "reps": 10,
+          "load_scope": "polea"
+        },
+        {
+          "kg": 85,
+          "reps": 10,
+          "load_scope": "polea"
+        }
+      ],
+      "reported_load_kg": 85,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "polea",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-e5",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-e5",
+      "exercise": "Curl con mancuernas",
+      "sets": [
+        {
+          "kg": 20,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 20,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 20,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 20,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "por mancuerna",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-v2e6",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-v2e6",
+      "exercise": "Curl martillo sentado en banco a 60° con mancuernas",
+      "sets": [
+        {
+          "kg": 14,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 14,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 14,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 14,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "por mancuerna",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
     }
   ],
   "workout_metrics": [
