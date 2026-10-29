@@ -1,1 +1,3461 @@
-{"schema_version":1,"sessions":[{"id":"2026-10-13|s4-d2-extra-sentadilla-profunda","date":"2026-10-13","week":4,"day":2,"exercise_id":"s4-d2-extra-sentadilla-profunda","exercise":"Sentadillas profundas sin peso","sets":[{"kg":0,"reps":10,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":10,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":10,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":10,"load_lb":0,"load_scope":"peso corporal"}],"reported_load_lb":0,"load_scope":"peso corporal","reported_sets":4,"record_status":"confirmado","rir":null,"notes":"Realizadas inmediatamente después de cada una de las cuatro series de sentadilla con barra. El peso corporal no se suma a la carga externa del volumen.","source":"Resumen de entrenamiento enviado en capturas 13/10/2026"},{"id":"2026-10-13|s4-d2-f21","date":"2026-10-13","week":4,"day":2,"exercise_id":"s4-d2-f21","exercise":"Abdominales cortitos c/disco","sets":[{"kg":11.34,"reps":30,"load_lb":25,"load_scope":"disco"},{"kg":11.34,"reps":30,"load_lb":25,"load_scope":"disco"},{"kg":11.34,"reps":30,"load_lb":25,"load_scope":"disco"}],"reported_load_lb":25,"load_scope":"disco","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Circuito core: 3 vueltas, primer ejercicio. La rutina original indicaba 2 series; se registran las 3 realizadas.","source":"Resumen de entrenamiento enviado en capturas 13/10/2026"},{"id":"2026-10-13|s4-d2-f22","date":"2026-10-13","week":4,"day":2,"exercise_id":"s4-d2-f22","exercise":"Vitalizaciones con disco","sets":[{"kg":11.34,"reps":10,"load_lb":25,"load_scope":"disco"},{"kg":11.34,"reps":10,"load_lb":25,"load_scope":"disco"},{"kg":11.34,"reps":10,"load_lb":25,"load_scope":"disco"}],"reported_load_lb":25,"load_scope":"disco","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Circuito core: 3 vueltas, segundo ejercicio. Ejecución confirmada 3×10; plan original 2×6.","source":"Resumen de entrenamiento enviado en capturas 13/10/2026"},{"id":"2026-10-13|s4-d2-f23","date":"2026-10-13","week":4,"day":2,"exercise_id":"s4-d2-f23","exercise":"Buenos dias con disco","sets":[{"kg":11.34,"reps":10,"load_lb":25,"load_scope":"disco"},{"kg":11.34,"reps":10,"load_lb":25,"load_scope":"disco"},{"kg":11.34,"reps":10,"load_lb":25,"load_scope":"disco"}],"reported_load_lb":25,"load_scope":"disco","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Circuito core: 3 vueltas, tercer ejercicio. Ejecución confirmada 3×10; plan original 2×6.","source":"Resumen de entrenamiento enviado en capturas 13/10/2026"},{"id":"2026-10-13|s4-d2-f24","date":"2026-10-13","week":4,"day":2,"exercise_id":"s4-d2-f24","exercise":"Sentadilla libre","sets":[{"kg":null,"reps":10},{"kg":null,"reps":10},{"kg":null,"reps":10},{"kg":null,"reps":10}],"reported_load_lb":70,"load_scope":"por lado + barra (peso de barra no informado)","reported_sets":4,"record_status":"repeticiones_confirmadas_carga_total_incompleta","rir":2,"notes":"Luego de cada serie hago 10 sentadillas profundas sin peso","source":"Resumen de entrenamiento enviado en capturas 13/10/2026","saved_at":"2026-10-13T23:20:55.394265+00:00"},{"id":"2026-10-13|s4-d2-f25","date":"2026-10-13","week":4,"day":2,"exercise_id":"s4-d2-f25","exercise":"Hipthrust con pausa 1-3-1","sets":[{"kg":null,"reps":8},{"kg":null,"reps":8},{"kg":null,"reps":8}],"reported_load_lb":180,"load_scope":"por lado + barra (peso de barra no informado)","reported_sets":3,"record_status":"repeticiones_confirmadas_carga_total_incompleta","rir":2,"notes":"","source":"Resumen de entrenamiento enviado en capturas 13/10/2026","previous_reference":{"load_lb_per_side":160,"date":null,"source":"progreso destacado en resumen"},"saved_at":"2026-10-13T23:21:53.887925+00:00"},{"id":"2026-10-13|s4-d2-f26","date":"2026-10-13","week":4,"day":2,"exercise_id":"s4-d2-f26","exercise":"Estocadas hacia atras con mancuernas","sets":[{"kg":null,"reps":8},{"kg":null,"reps":8},{"kg":null,"reps":8}],"reported_load_lb":50,"load_scope":"50 lb informadas, sin aclarar si carga total o por mancuerna","reported_sets":3,"record_status":"repeticiones_confirmadas_alcance_carga_incierto","rir":2,"notes":"","source":"Resumen de entrenamiento enviado en capturas 13/10/2026","saved_at":"2026-10-13T23:22:33.792471+00:00"},{"id":"2026-10-13|s4-d2-f27","date":"2026-10-13","week":4,"day":2,"exercise_id":"s4-d2-f27","exercise":"Extension de cuadriceps","sets":[{"kg":null,"reps":12},{"kg":null,"reps":10},{"kg":null,"reps":8},{"kg":null,"reps":8,"load_scope":"maquina: última serie"}],"reported_load_lb":235,"load_scope":"máquina; carga progresiva, solo última serie confirmada 235 lb","reported_sets":4,"record_status":"repeticiones_confirmadas_cargas_anteriores_pendientes","rir":2,"notes":"","source":"Resumen de entrenamiento enviado en capturas 13/10/2026","saved_at":"2026-10-13T23:23:50.832558+00:00"},{"id":"2026-10-13|s4-d2-f28","date":"2026-10-13","week":4,"day":2,"exercise_id":"s4-d2-f28","exercise":"Aductores","sets":[{"kg":null,"reps":12,"load_scope":"máquina"},{"kg":null,"reps":12,"load_scope":"máquina"},{"kg":null,"reps":12,"load_scope":"máquina"},{"kg":null,"reps":12,"load_scope":"máquina"}],"reported_load_lb":150,"load_scope":"máquina","reported_sets":4,"record_status":"confirmado","rir":2,"notes":"","source":"Resumen de entrenamiento enviado en capturas 13/10/2026","saved_at":"2026-10-13T23:27:18.588292+00:00"},{"id":"2026-10-13|s4-d2-f29","date":"2026-10-13","week":4,"day":2,"exercise_id":"s4-d2-f29","exercise":"Patada de gluteos en polea","sets":[{"kg":null,"reps":10},{"kg":null,"reps":10},{"kg":null,"reps":10},{"kg":null,"reps":10}],"reported_load_lb":47.5,"load_scope":"polea","reported_sets":0,"record_status":"carga_confirmada_series_y_reps_no_confirmadas","rir":2,"notes":"","source":"Resumen de entrenamiento enviado en capturas 13/10/2026","previous_reference":{"load_lb":40,"date":null,"source":"progreso destacado en resumen"},"saved_at":"2026-10-13T23:29:59.026628+00:00"},{"id":"2026-10-14|s4-d3-f33","date":"2026-10-14","week":4,"day":3,"exercise_id":"s4-d3-f33","exercise":"Giros rusos","sets":[{"kg":11.34,"reps":40,"load_lb":25,"load_scope":"disco"},{"kg":11.34,"reps":40,"load_lb":25,"load_scope":"disco"},{"kg":11.34,"reps":40,"load_lb":25,"load_scope":"disco"}],"reported_load_lb":25,"load_scope":"disco","reported_sets":3,"record_status":"referencia_repetida_no_reconfirmada","rir":null,"notes":"20 por lado en cada vuelta; circuito core. Peso de referencia anterior.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-14|s4-d3-f34","date":"2026-10-14","week":4,"day":3,"exercise_id":"s4-d3-f34","exercise":"Abdominales bisagra","sets":[{"kg":0,"reps":10,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":10,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":10,"load_lb":0,"load_scope":"peso corporal"}],"reported_load_lb":0,"load_scope":"peso corporal","reported_sets":3,"record_status":"referencia_repetida_no_reconfirmada","rir":null,"notes":"Circuito core; se mantiene referencia anterior.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-14|s4-d3-f35","date":"2026-10-14","week":4,"day":3,"exercise_id":"s4-d3-f35","exercise":"Elevaciones de piernas","sets":[{"kg":0,"reps":10,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":10,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":10,"load_lb":0,"load_scope":"peso corporal"}],"reported_load_lb":0,"load_scope":"peso corporal","reported_sets":3,"record_status":"referencia_repetida_no_reconfirmada","rir":null,"notes":"Circuito core; se mantiene referencia anterior.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-14|s4-d3-f41","date":"2026-10-14","week":4,"day":3,"exercise_id":"s4-d3-f41","exercise":"Press francés con mancuernas","sets":[{"kg":18.14,"reps":10,"load_lb":40,"load_scope":"mancuerna (alcance exacto no confirmado)"},{"kg":18.14,"reps":10,"load_lb":40,"load_scope":"mancuerna (alcance exacto no confirmado)"},{"kg":18.14,"reps":10,"load_lb":40,"load_scope":"mancuerna (alcance exacto no confirmado)"}],"reported_load_lb":40,"load_scope":"mancuerna (alcance exacto no confirmado)","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Superserie con flexiones de tríceps, 3 vueltas.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-14|s4-d3-f36","date":"2026-10-14","week":4,"day":3,"exercise_id":"s4-d3-f36","exercise":"Flexiones para tríceps","sets":[{"kg":0,"reps":15,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":15,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":15,"load_lb":0,"load_scope":"peso corporal"}],"reported_load_lb":0,"load_scope":"peso corporal","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Superserie con press francés, 3 vueltas.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-14|s4-d3-f37","date":"2026-10-14","week":4,"day":3,"exercise_id":"s4-d3-f37","exercise":"Fondos en paralelas","sets":[{"kg":0,"reps":18,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":18,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":18,"load_lb":0,"load_scope":"peso corporal"}],"reported_load_lb":0,"load_scope":"peso corporal","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-14|s4-d3-f38","date":"2026-10-14","week":4,"day":3,"exercise_id":"s4-d3-f38","exercise":"Curl martillo","sets":[{"kg":22.68,"reps":10,"load_lb":50,"load_scope":"mancuerna (referencia anterior)"},{"kg":22.68,"reps":10,"load_lb":50,"load_scope":"mancuerna (referencia anterior)"},{"kg":22.68,"reps":10,"load_lb":50,"load_scope":"mancuerna (referencia anterior)"},{"kg":22.68,"reps":10,"load_lb":50,"load_scope":"mancuerna (referencia anterior)"}],"reported_load_lb":50,"load_scope":"mancuerna (referencia anterior)","reported_sets":4,"record_status":"reps_confirmadas_peso_referencia","rir":null,"notes":"Peso sin cambio informado; se conserva referencia de semana 3.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-14|s4-d3-f39","date":"2026-10-14","week":4,"day":3,"exercise_id":"s4-d3-f39","exercise":"Tríceps con soga","sets":[{"kg":35.15,"reps":10,"load_lb":77.5,"load_scope":"polea"},{"kg":35.15,"reps":10,"load_lb":77.5,"load_scope":"polea"},{"kg":35.15,"reps":10,"load_lb":77.5,"load_scope":"polea"}],"reported_load_lb":77.5,"load_scope":"polea","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Superserie con curl 21, 3 vueltas.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-14|s4-d3-f40","date":"2026-10-14","week":4,"day":3,"exercise_id":"s4-d3-f40","exercise":"Curl 21 con barra Z","sets":[{"kg":9.07,"reps":21,"load_lb":20,"load_scope":"por lado + barra Z (peso de barra no informado)"},{"kg":9.07,"reps":21,"load_lb":20,"load_scope":"por lado + barra Z (peso de barra no informado)"},{"kg":9.07,"reps":21,"load_lb":20,"load_scope":"por lado + barra Z (peso de barra no informado)"}],"reported_load_lb":20,"load_scope":"por lado + barra Z (peso de barra no informado)","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Cada serie: 7+7+7, confirmado expresamente; superserie con tríceps soga.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-15|s4-d4-f44","date":"2026-10-15","week":4,"day":4,"exercise_id":"s4-d4-f44","exercise":"Plancha común","sets":[{"kg":0,"reps":30,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":30,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":30,"load_lb":0,"load_scope":"peso corporal"}],"reported_load_lb":0,"load_scope":"peso corporal","reported_sets":3,"record_status":"referencia_repetida_no_reconfirmada","rir":null,"notes":"Repeticiones expresadas en segundos, no repeticiones; referencia anterior.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-15|s4-d4-f45","date":"2026-10-15","week":4,"day":4,"exercise_id":"s4-d4-f45","exercise":"Vitalizaciones con disco","sets":[{"kg":11.34,"reps":10,"load_lb":25,"load_scope":"disco"},{"kg":11.34,"reps":10,"load_lb":25,"load_scope":"disco"},{"kg":11.34,"reps":10,"load_lb":25,"load_scope":"disco"}],"reported_load_lb":25,"load_scope":"disco","reported_sets":3,"record_status":"referencia_repetida_no_reconfirmada","rir":null,"notes":"Core, referencia anterior.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-15|s4-d4-f46","date":"2026-10-15","week":4,"day":4,"exercise_id":"s4-d4-f46","exercise":"Buenos dias con disco","sets":[{"kg":11.34,"reps":20,"load_lb":25,"load_scope":"disco"},{"kg":11.34,"reps":20,"load_lb":25,"load_scope":"disco"},{"kg":11.34,"reps":20,"load_lb":25,"load_scope":"disco"}],"reported_load_lb":25,"load_scope":"disco","reported_sets":3,"record_status":"referencia_repetida_no_reconfirmada","rir":null,"notes":"Core, referencia anterior.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-15|s4-d4-f47","date":"2026-10-15","week":4,"day":4,"exercise_id":"s4-d4-f47","exercise":"Peso muerto rumano","sets":[{"kg":34.02,"reps":10,"load_lb":75,"load_scope":"por mancuerna"},{"kg":34.02,"reps":10,"load_lb":75,"load_scope":"por mancuerna"},{"kg":34.02,"reps":10,"load_lb":75,"load_scope":"por mancuerna"},{"kg":34.02,"reps":10,"load_lb":75,"load_scope":"por mancuerna"}],"reported_load_lb":75,"load_scope":"por mancuerna","reported_sets":4,"record_status":"confirmado","rir":null,"notes":"Progresión por repeticiones.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-15|s4-d4-f48","date":"2026-10-15","week":4,"day":4,"exercise_id":"s4-d4-f48","exercise":"Prensa 45°","sets":[{"kg":81.65,"reps":12,"load_lb":180,"load_scope":"por lado (peso de plataforma no informado)"},{"kg":81.65,"reps":12,"load_lb":180,"load_scope":"por lado (peso de plataforma no informado)"},{"kg":81.65,"reps":12,"load_lb":180,"load_scope":"por lado (peso de plataforma no informado)"}],"reported_load_lb":180,"load_scope":"por lado (peso de plataforma no informado)","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Superserie con gemelos, 3 vueltas.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-15|s4-d4-f49","date":"2026-10-15","week":4,"day":4,"exercise_id":"s4-d4-f49","exercise":"Gemelos","sets":[{"kg":81.65,"reps":15,"load_lb":180,"load_scope":"por lado en prensa"},{"kg":81.65,"reps":15,"load_lb":180,"load_scope":"por lado en prensa"},{"kg":81.65,"reps":15,"load_lb":180,"load_scope":"por lado en prensa"}],"reported_load_lb":180,"load_scope":"por lado en prensa","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Superserie con prensa, 3 vueltas.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-15|s4-d4-f50","date":"2026-10-15","week":4,"day":4,"exercise_id":"s4-d4-f50","exercise":"Sentadilla bulgara","sets":[{"kg":22.68,"reps":10,"load_lb":50,"load_scope":"mancuerna (alcance no confirmado)"},{"kg":22.68,"reps":10,"load_lb":50,"load_scope":"mancuerna (alcance no confirmado)"},{"kg":22.68,"reps":10,"load_lb":50,"load_scope":"mancuerna (alcance no confirmado)"}],"reported_load_lb":50,"load_scope":"mancuerna (alcance no confirmado)","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"10 repeticiones por pierna en cada serie.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-15|s4-d4-f51","date":"2026-10-15","week":4,"day":4,"exercise_id":"s4-d4-f51","exercise":"Curl femorales maquina","sets":[{"kg":31.75,"reps":12,"load_scope":"máquina, cargas por serie","load_lb":70},{"kg":40.82,"reps":10,"load_scope":"máquina, cargas por serie","load_lb":90},{"kg":49.9,"reps":8,"load_scope":"máquina, cargas por serie","load_lb":110},{"kg":58.97,"reps":6,"load_scope":"máquina, cargas por serie","load_lb":130}],"reported_load_lb":null,"load_scope":"máquina, cargas por serie","reported_sets":4,"record_status":"ultima_serie_confirmada_primeras_tres_referencia","rir":null,"notes":"Cargas 70,90,110,130 lb por serie. Última 130 lb x6 confirmada; primeras tres se conservan como referencia previa.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-15|s4-d4-f52","date":"2026-10-15","week":4,"day":4,"exercise_id":"s4-d4-f52","exercise":"Press militar","sets":[{"kg":27.22,"reps":7,"load_lb":60,"load_scope":"por mancuerna, sentado"},{"kg":27.22,"reps":7,"load_lb":60,"load_scope":"por mancuerna, sentado"},{"kg":27.22,"reps":7,"load_lb":60,"load_scope":"por mancuerna, sentado"},{"kg":27.22,"reps":7,"load_lb":60,"load_scope":"por mancuerna, sentado"}],"reported_load_lb":60,"load_scope":"por mancuerna, sentado","reported_sets":4,"record_status":"confirmado","rir":null,"notes":"","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-15|s4-d4-f53","date":"2026-10-15","week":4,"day":4,"exercise_id":"s4-d4-f53","exercise":"Vuelos laterales","sets":[{"kg":13.61,"reps":10,"load_lb":30,"load_scope":"por mancuerna"},{"kg":13.61,"reps":10,"load_lb":30,"load_scope":"por mancuerna"},{"kg":13.61,"reps":10,"load_lb":30,"load_scope":"por mancuerna"}],"reported_load_lb":30,"load_scope":"por mancuerna","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Superserie con vuelos posteriores, 3 vueltas.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-15|s4-d4-f54","date":"2026-10-15","week":4,"day":4,"exercise_id":"s4-d4-f54","exercise":"Vuelos posteriores","sets":[{"kg":18.14,"reps":10,"load_lb":40,"load_scope":"por mancuerna"},{"kg":18.14,"reps":10,"load_lb":40,"load_scope":"por mancuerna"},{"kg":18.14,"reps":10,"load_lb":40,"load_scope":"por mancuerna"}],"reported_load_lb":40,"load_scope":"por mancuerna","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Superserie con vuelos laterales, 3 vueltas.","source":"Seguimiento conversacional Edu Fitness, 14–15/10/2026"},{"id":"2026-10-16|s4-d5-f01","date":"2026-10-16","week":4,"day":5,"exercise_id":"s4-d5-f01","exercise":"Abdominales cortitos con disco","sets":[{"kg":null,"reps":30,"load_lb":null,"load_scope":"disco, peso sin confirmar"},{"kg":null,"reps":30,"load_lb":null,"load_scope":"disco, peso sin confirmar"},{"kg":null,"reps":30,"load_lb":null,"load_scope":"disco, peso sin confirmar"}],"reported_load_lb":null,"load_scope":"disco, peso sin confirmar","reported_sets":3,"record_status":"referencia no confirmada","rir":null,"notes":"Circuito core 3 vueltas; series/reps de semana anterior.","source":"Seguimiento conversacional Edu Fitness, 16/10/2026"},{"id":"2026-10-16|s4-d5-f02","date":"2026-10-16","week":4,"day":5,"exercise_id":"s4-d5-f02","exercise":"Pullover con disco","sets":[{"kg":null,"reps":20,"load_lb":null,"load_scope":"disco, peso sin confirmar"},{"kg":null,"reps":20,"load_lb":null,"load_scope":"disco, peso sin confirmar"},{"kg":null,"reps":20,"load_lb":null,"load_scope":"disco, peso sin confirmar"}],"reported_load_lb":null,"load_scope":"disco, peso sin confirmar","reported_sets":3,"record_status":"confirmado parcial","rir":null,"notes":"Circuito core 3 vueltas; repeticiones confirmadas, peso sin confirmar.","source":"Seguimiento conversacional Edu Fitness, 16/10/2026"},{"id":"2026-10-16|s4-d5-f03","date":"2026-10-16","week":4,"day":5,"exercise_id":"s4-d5-f03","exercise":"Hiperextensiones lumbares","sets":[{"kg":0,"reps":20,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":20,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":20,"load_lb":0,"load_scope":"peso corporal"}],"reported_load_lb":0,"load_scope":"peso corporal","reported_sets":3,"record_status":"referencia no confirmada","rir":null,"notes":"Circuito core 3 vueltas; referencia semana anterior.","source":"Seguimiento conversacional Edu Fitness, 16/10/2026"},{"id":"2026-10-16|s4-d5-f04","date":"2026-10-16","week":4,"day":5,"exercise_id":"s4-d5-f04","exercise":"Remo Pendlay","sets":[{"kg":22.68,"reps":8,"load_lb":50,"load_scope":"por lado + barra"},{"kg":22.68,"reps":8,"load_lb":50,"load_scope":"por lado + barra"},{"kg":22.68,"reps":8,"load_lb":50,"load_scope":"por lado + barra"},{"kg":22.68,"reps":8,"load_lb":50,"load_scope":"por lado + barra"}],"reported_load_lb":50,"load_scope":"por lado + barra","reported_sets":4,"record_status":"confirmado","rir":null,"notes":"","source":"Seguimiento conversacional Edu Fitness, 16/10/2026"},{"id":"2026-10-16|s4-d5-f05","date":"2026-10-16","week":4,"day":5,"exercise_id":"s4-d5-f05","exercise":"Press inclinado con mancuernas","sets":[{"kg":31.75,"reps":9,"load_lb":70,"load_scope":"por mancuerna"},{"kg":31.75,"reps":9,"load_lb":70,"load_scope":"por mancuerna"},{"kg":31.75,"reps":9,"load_lb":70,"load_scope":"por mancuerna"},{"kg":31.75,"reps":9,"load_lb":70,"load_scope":"por mancuerna"}],"reported_load_lb":70,"load_scope":"por mancuerna","reported_sets":4,"record_status":"confirmado","rir":null,"notes":"","source":"Seguimiento conversacional Edu Fitness, 16/10/2026"},{"id":"2026-10-16|s4-d5-f06","date":"2026-10-16","week":4,"day":5,"exercise_id":"s4-d5-f06","exercise":"Dominadas supinas","sets":[{"kg":0,"reps":12,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":12,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":12,"load_lb":0,"load_scope":"peso corporal"}],"reported_load_lb":0,"load_scope":"peso corporal","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Superserie con flexiones, 3 vueltas.","source":"Seguimiento conversacional Edu Fitness, 16/10/2026"},{"id":"2026-10-16|s4-d5-f07","date":"2026-10-16","week":4,"day":5,"exercise_id":"s4-d5-f07","exercise":"Flexiones de brazos","sets":[{"kg":0,"reps":15,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":15,"load_lb":0,"load_scope":"peso corporal"},{"kg":0,"reps":15,"load_lb":0,"load_scope":"peso corporal"}],"reported_load_lb":0,"load_scope":"peso corporal","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Superserie con dominadas supinas, 3 vueltas.","source":"Seguimiento conversacional Edu Fitness, 16/10/2026"},{"id":"2026-10-16|s4-d5-f08","date":"2026-10-16","week":4,"day":5,"exercise_id":"s4-d5-f08","exercise":"Pec deck","sets":[{"kg":72.57,"reps":10,"load_lb":160,"load_scope":"carga de máquina"},{"kg":72.57,"reps":10,"load_lb":160,"load_scope":"carga de máquina"},{"kg":72.57,"reps":10,"load_lb":160,"load_scope":"carga de máquina"},{"kg":72.57,"reps":10,"load_lb":160,"load_scope":"carga de máquina"}],"reported_load_lb":160,"load_scope":"carga de máquina","reported_sets":4,"record_status":"confirmado","rir":null,"notes":"Atención a molestias de codo.","source":"Seguimiento conversacional Edu Fitness, 16/10/2026"},{"id":"2026-10-16|s4-d5-f09","date":"2026-10-16","week":4,"day":5,"exercise_id":"s4-d5-f09","exercise":"Jalón dorsal agarre neutro","sets":[{"kg":77.11,"reps":9,"load_lb":170,"load_scope":"carga de máquina"},{"kg":77.11,"reps":9,"load_lb":170,"load_scope":"carga de máquina"},{"kg":77.11,"reps":9,"load_lb":170,"load_scope":"carga de máquina"},{"kg":77.11,"reps":9,"load_lb":170,"load_scope":"carga de máquina"}],"reported_load_lb":170,"load_scope":"carga de máquina","reported_sets":4,"record_status":"confirmado","rir":null,"notes":"","source":"Seguimiento conversacional Edu Fitness, 16/10/2026"},{"id":"2026-10-21|hp261017-w1-d2-c1","date":"2026-10-21","week":1,"day":2,"exercise_id":"hp261017-w1-d2-c1","exercise":"Abdominales cortitos con disco","sets":[{"kg":12,"reps":30,"load_scope":"disco"},{"kg":12,"reps":30,"load_scope":"disco"},{"kg":12,"reps":30,"load_scope":"disco"}],"reported_load_kg":12,"load_scope":"disco","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Circuito core 3 vueltas.","source":"Registro enviado por Edu 21/10/2026; día martes realizado miércoles"},{"id":"2026-10-21|hp261017-w1-d2-c2","date":"2026-10-21","week":1,"day":2,"exercise_id":"hp261017-w1-d2-c2","exercise":"Vitalizaciones con disco","sets":[{"kg":12,"reps":15,"load_scope":"disco"},{"kg":12,"reps":15,"load_scope":"disco"},{"kg":12,"reps":15,"load_scope":"disco"}],"reported_load_kg":12,"load_scope":"disco","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Circuito core 3 vueltas.","source":"Registro enviado por Edu 21/10/2026; día martes realizado miércoles"},{"id":"2026-10-21|hp261017-w1-d2-c3","date":"2026-10-21","week":1,"day":2,"exercise_id":"hp261017-w1-d2-c3","exercise":"Buenos días con disco","sets":[{"kg":12,"reps":18,"load_scope":"disco"},{"kg":12,"reps":15,"load_scope":"disco"},{"kg":12,"reps":15,"load_scope":"disco"}],"reported_load_kg":12,"load_scope":"disco","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Circuito core 3 vueltas.","source":"Registro enviado por Edu 21/10/2026; día martes realizado miércoles"},{"id":"2026-10-21|hp261017-w1-d2-e1","date":"2026-10-21","week":1,"day":2,"exercise_id":"hp261017-w1-d2-e1","exercise":"Prensa horizontal Technogym (asiento deslizante)","sets":[{"kg":160,"reps":12,"load_scope":"carga total de máquina"},{"kg":160,"reps":12,"load_scope":"carga total de máquina"},{"kg":160,"reps":12,"load_scope":"carga total de máquina"}],"reported_load_kg":160,"load_scope":"carga total de máquina","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Máquina identificada por fotografía: prensa horizontal Technogym de placas y asiento deslizante; 160 kg indicados en máquina, 3×12. Usuario reporta recorrido corto y poco estímulo. No equivalente a sentadilla libre.","source":"Registro enviado por Edu 21/10/2026; día martes realizado miércoles"},{"id":"2026-10-21|hp261017-w1-d2-e2","date":"2026-10-21","week":1,"day":2,"exercise_id":"hp261017-w1-d2-e2","exercise":"Sentadilla libre","sets":[{"kg":70,"reps":12,"load_scope":"peso total: 25 kg por lado + barra de 20 kg","load_per_side_kg":25,"bar_kg":20},{"kg":70,"reps":12,"load_scope":"peso total: 25 kg por lado + barra de 20 kg","load_per_side_kg":25,"bar_kg":20},{"kg":70,"reps":12,"load_scope":"peso total: 25 kg por lado + barra de 20 kg","load_per_side_kg":25,"bar_kg":20}],"reported_load_kg":70,"load_scope":"peso total: 25 kg por lado + barra de 20 kg","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"3×12 con 70 kg totales (25 kg por lado y barra olímpica de 20 kg). Confirmado por el usuario.","source":"Registro enviado por Edu 21/10/2026; día martes realizado miércoles"},{"id":"2026-10-21|hp261017-w1-d2-e3","date":"2026-10-21","week":1,"day":2,"exercise_id":"hp261017-w1-d2-e3","exercise":"Curl femoral sentado","sets":[{"kg":50,"reps":12,"load_scope":"máquina"},{"kg":50,"reps":12,"load_scope":"máquina"},{"kg":50,"reps":12,"load_scope":"máquina"}],"reported_load_kg":50,"load_scope":"máquina","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Corrección: sentado, no acostado.","source":"Registro enviado por Edu 21/10/2026; día martes realizado miércoles"},{"id":"2026-10-21|hp261017-w1-d2-e4","date":"2026-10-21","week":1,"day":2,"exercise_id":"hp261017-w1-d2-e4","exercise":"Extensión de cuádriceps","sets":[{"kg":60,"reps":12,"load_scope":"máquina"},{"kg":65,"reps":10,"load_scope":"máquina"},{"kg":70,"reps":10,"load_scope":"máquina"}],"reported_load_kg":60,"load_scope":"máquina","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"","source":"Registro enviado por Edu 21/10/2026; día martes realizado miércoles"},{"id":"2026-10-21|hp261017-w1-d2-e5","date":"2026-10-21","week":1,"day":2,"exercise_id":"hp261017-w1-d2-e5","exercise":"Gemelos sentado","sets":[{"kg":35,"reps":15,"load_scope":"máquina"},{"kg":40,"reps":15,"load_scope":"máquina"},{"kg":40,"reps":15,"load_scope":"máquina"}],"reported_load_kg":35,"load_scope":"máquina","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Corrección: sentado, no de pie.","source":"Registro enviado por Edu 21/10/2026; día martes realizado miércoles"},{"id":"2026-10-22|hp261017-w1-d3-c1","date":"2026-10-22","week":1,"day":3,"exercise_id":"hp261017-w1-d3-c1","exercise":"Giros con disco","sets":[{"kg":12,"reps":20,"load_scope":"disco"},{"kg":12,"reps":20,"load_scope":"disco"},{"kg":12,"reps":20,"load_scope":"disco"}],"reported_load_kg":12,"load_scope":"disco","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Sustituyó abdominales cortitos. 3 vueltas. No se precisó si las 20 repeticiones son totales o por lado.","source":"Registro de Edu 22/10/2026; rutina miércoles realizada jueves"},{"id":"2026-10-22|hp261017-w1-d3-c2","date":"2026-10-22","week":1,"day":3,"exercise_id":"hp261017-w1-d3-c2","exercise":"Pullover acostado con disco","sets":[{"kg":12,"reps":20,"load_scope":"disco"},{"kg":12,"reps":20,"load_scope":"disco"},{"kg":12,"reps":20,"load_scope":"disco"}],"reported_load_kg":12,"load_scope":"disco","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Core/activación de espalda, 3 vueltas.","source":"Registro de Edu 22/10/2026; rutina miércoles realizada jueves"},{"id":"2026-10-22|hp261017-w1-d3-c3","date":"2026-10-22","week":1,"day":3,"exercise_id":"hp261017-w1-d3-c3","exercise":"Elevaciones de piernas","sets":[{"kg":null,"reps":30,"load_scope":"peso corporal"},{"kg":null,"reps":30,"load_scope":"peso corporal"},{"kg":null,"reps":30,"load_scope":"peso corporal"}],"reported_load_kg":null,"load_scope":"peso corporal","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"3 vueltas. Peso corporal, carga externa no informada.","source":"Registro de Edu 22/10/2026; rutina miércoles realizada jueves"},{"id":"2026-10-22|hp261017-w1-d3-e1","date":"2026-10-22","week":1,"day":3,"exercise_id":"hp261017-w1-d3-e1","exercise":"Jalón al pecho con agarre neutro","sets":[{"kg":70,"reps":10,"load_scope":"máquina/polea"},{"kg":null,"reps":null,"load_scope":"máquina/polea"},{"kg":null,"reps":null,"load_scope":"máquina/polea"}],"reported_load_kg":70,"load_scope":"máquina/polea","reported_sets":3,"record_status":"parcial; tercera serie por verificar","rir":null,"notes":"Serie 2 sin datos. Serie 3: ingresadas '99 repeticiones' sin carga; dato atípico pendiente de confirmar, no computado como repeticiones realizadas.","source":"Registro de Edu 22/10/2026; rutina miércoles realizada jueves"},{"id":"2026-10-22|hp261017-w1-d3-e2","date":"2026-10-22","week":1,"day":3,"exercise_id":"hp261017-w1-d3-e2","exercise":"Remo a un brazo con mancuerna","sets":[{"kg":32,"reps":12,"load_scope":"por mancuerna"},{"kg":36,"reps":10,"load_scope":"por mancuerna"},{"kg":36,"reps":10,"load_scope":"por mancuerna"}],"reported_load_kg":32,"load_scope":"por mancuerna","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Ejercicio real; reemplaza remo con pecho apoyado, no disponible.","source":"Registro de Edu 22/10/2026; rutina miércoles realizada jueves"},{"id":"2026-10-22|hp261017-w1-d3-e3","date":"2026-10-22","week":1,"day":3,"exercise_id":"hp261017-w1-d3-e3","exercise":"Remo bajo Technogym Low Pull","sets":[{"kg":40,"reps":12,"load_scope":"máquina"},{"kg":50,"reps":12,"load_scope":"máquina"},{"kg":60,"reps":12,"load_scope":"máquina"}],"reported_load_kg":40,"load_scope":"máquina","reported_sets":3,"record_status":"confirmado; variante por verificar","rir":null,"notes":"Máquina identificada por foto del usuario (22/10/2026): Technogym Low Pull de remo bajo sentado. Se conservan cargas registradas de máquina de 40/50/60 kg, 12 repeticiones por serie. No se infiere carga por brazo. Aclaración posterior de Edu: comenzó con un peso bajo para familiarizarse con la máquina y aumentó progresivamente; primera sesión de uso, no considerar la primera carga como máxima.","source":"Registro de Edu 22/10/2026; rutina miércoles realizada jueves"},{"id":"2026-10-22|hp261017-w1-d3-e4","date":"2026-10-22","week":1,"day":3,"exercise_id":"hp261017-w1-d3-e4","exercise":"Face pull con soga en polea","sets":[{"kg":70,"reps":12,"load_scope":"máquina/polea"},{"kg":75,"reps":10,"load_scope":"máquina/polea"},{"kg":80,"reps":null,"load_scope":"máquina/polea"}],"reported_load_kg":70,"load_scope":"máquina/polea","reported_sets":3,"record_status":"parcial","rir":null,"notes":"Reemplaza pec deck inverso que no está disponible. Última serie: 80 kg, repeticiones sin indicar. Carga en kg según formulario; sin equivalencia entre poleas.","source":"Registro de Edu 22/10/2026; rutina miércoles realizada jueves"},{"id":"2026-10-22|hp261017-w1-d3-e5","date":"2026-10-22","week":1,"day":3,"exercise_id":"hp261017-w1-d3-e5","exercise":"Curl con mancuernas","sets":[{"kg":20,"reps":10,"load_scope":"por mancuerna"},{"kg":null,"reps":null,"load_scope":"por mancuerna"},{"kg":null,"reps":null,"load_scope":"por mancuerna"}],"reported_load_kg":20,"load_scope":"por mancuerna","reported_sets":3,"record_status":"parcial","rir":null,"notes":"Solo primera serie informada. Las restantes no se completaron en el formulario.","source":"Registro de Edu 22/10/2026; rutina miércoles realizada jueves"},{"id":"2026-10-23|hp261017-w1-d4-c1","date":"2026-10-23","week":1,"day":4,"exercise_id":"hp261017-w1-d4-c1","exercise":"Plancha frontal","sets":[{"kg":null,"reps":50,"load_scope":"peso corporal","duration_unit":"seconds"},{"kg":null,"reps":50,"load_scope":"peso corporal","duration_unit":"seconds"},{"kg":null,"reps":50,"load_scope":"peso corporal","duration_unit":"seconds"}],"reported_load_kg":null,"load_scope":"peso corporal","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Duración expresada en segundos; core triserie de 3 vueltas.","source":"Registro Edu 23/10/2026, rutina jueves realizada viernes"},{"id":"2026-10-23|hp261017-w1-d4-c2","date":"2026-10-23","week":1,"day":4,"exercise_id":"hp261017-w1-d4-c2","exercise":"Vitalizaciones con disco","sets":[{"kg":12,"reps":15,"load_scope":"disco"},{"kg":12,"reps":15,"load_scope":"disco"},{"kg":12,"reps":15,"load_scope":"disco"}],"reported_load_kg":12,"load_scope":"disco","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Core triserie de 3 vueltas.","source":"Registro Edu 23/10/2026, rutina jueves realizada viernes"},{"id":"2026-10-23|hp261017-w1-d4-c3","date":"2026-10-23","week":1,"day":4,"exercise_id":"hp261017-w1-d4-c3","exercise":"Buenos días con disco","sets":[{"kg":12,"reps":15,"load_scope":"disco"},{"kg":12,"reps":15,"load_scope":"disco"},{"kg":12,"reps":15,"load_scope":"disco"}],"reported_load_kg":12,"load_scope":"disco","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Core triserie de 3 vueltas.","source":"Registro Edu 23/10/2026, rutina jueves realizada viernes"},{"id":"2026-10-23|hp261017-w1-d4-e1","date":"2026-10-23","week":1,"day":4,"exercise_id":"hp261017-w1-d4-e1","exercise":"Hip thrust con barra libre","sets":[{"kg":50,"reps":12,"load_scope":"discos por lado, barra no incluida"},{"kg":60,"reps":10,"load_scope":"discos por lado, barra no incluida"},{"kg":60,"reps":10,"load_scope":"discos por lado, barra no incluida"}],"reported_load_kg":50,"load_scope":"discos por lado, barra no incluida","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Cargas 50/60/60 kg de discos POR LADO. Peso de barra de esta sesión no confirmado; no calcular carga total.","source":"Registro Edu 23/10/2026, rutina jueves realizada viernes"},{"id":"2026-10-23|hp261017-w1-d4-e2","date":"2026-10-23","week":1,"day":4,"exercise_id":"hp261017-w1-d4-e2","exercise":"Peso muerto rumano con mancuernas","sets":[{"kg":32,"reps":12,"load_scope":"por mancuerna"},{"kg":32,"reps":12,"load_scope":"por mancuerna"},{"kg":32,"reps":12,"load_scope":"por mancuerna"}],"reported_load_kg":32,"load_scope":"por mancuerna","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"3x12 con 32 kg por mancuerna.","source":"Registro Edu 23/10/2026, rutina jueves realizada viernes"},{"id":"2026-10-23|hp261017-w1-d4-e3","date":"2026-10-23","week":1,"day":4,"exercise_id":"hp261017-w1-d4-e3","exercise":"Prensa a 45°","sets":[{"kg":60,"reps":12,"load_scope":"por lado"},{"kg":60,"reps":12,"load_scope":"por lado"},{"kg":60,"reps":12,"load_scope":"por lado"}],"reported_load_kg":60,"load_scope":"por lado","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Superserie B con gemelos en prensa, 3 vueltas.","source":"Registro Edu 23/10/2026, rutina jueves realizada viernes"},{"id":"2026-10-23|hp261017-w1-d4-e4","date":"2026-10-23","week":1,"day":4,"exercise_id":"hp261017-w1-d4-e4","exercise":"Gemelos en prensa a 45°","sets":[{"kg":60,"reps":12,"load_scope":"por lado"},{"kg":60,"reps":12,"load_scope":"por lado"},{"kg":60,"reps":12,"load_scope":"por lado"}],"reported_load_kg":60,"load_scope":"por lado","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Superserie B con prensa, 3 vueltas.","source":"Registro Edu 23/10/2026, rutina jueves realizada viernes"},{"id":"2026-10-23|hp261017-w1-d4-extra1","date":"2026-10-23","week":1,"day":4,"exercise_id":"hp261017-w1-d4-extra1","exercise":"Press de hombros con mancuernas","sets":[{"kg":26,"reps":12,"load_scope":"por mancuerna"},{"kg":26,"reps":12,"load_scope":"por mancuerna"},{"kg":26,"reps":12,"load_scope":"por mancuerna"}],"reported_load_kg":26,"load_scope":"por mancuerna","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"3×12 con 26 kg por mancuerna. Ejercicio adicional excepcional.","source":"Registro Edu 23/10/2026, rutina jueves realizada viernes"},{"id":"2026-10-23|hp261017-w1-d4-extra2","date":"2026-10-23","week":1,"day":4,"exercise_id":"hp261017-w1-d4-extra2","exercise":"Vuelos laterales con mancuernas — tramo 12 kg","sets":[{"kg":12,"reps":12,"load_scope":"por mancuerna"},{"kg":12,"reps":12,"load_scope":"por mancuerna"},{"kg":12,"reps":12,"load_scope":"por mancuerna"}],"reported_load_kg":12,"load_scope":"por mancuerna","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Superserie de 3 vueltas: 12 repeticiones con 12 kg por mancuerna, seguidas inmediatamente de 12 repeticiones con 6 kg por mancuerna. Tramo inicial.","source":"Registro Edu 23/10/2026, rutina jueves realizada viernes","set_type":"superserie","set_group":"H"},{"id":"2026-10-23|hp261017-w1-d4-extra3","date":"2026-10-23","week":1,"day":4,"exercise_id":"hp261017-w1-d4-extra3","exercise":"Vuelos laterales con mancuernas — tramo 6 kg","sets":[{"kg":6,"reps":12,"load_scope":"por mancuerna"},{"kg":6,"reps":12,"load_scope":"por mancuerna"},{"kg":6,"reps":12,"load_scope":"por mancuerna"}],"reported_load_kg":6,"load_scope":"por mancuerna","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Superserie de 3 vueltas: tramo de 6 kg por mancuerna inmediatamente después de las 12 repeticiones con 12 kg por mancuerna. No son seis series independientes.","source":"Registro Edu 23/10/2026, rutina jueves realizada viernes","set_type":"superserie","set_group":"H"},{"id":"2026-10-26|hp261017-w2-d1-c1","date":"2026-10-26","week":2,"day":1,"exercise_id":"hp261017-w2-d1-c1","exercise":"Sit ups con disco","sets":[{"kg":12,"reps":20,"load_scope":"disco"},{"kg":12,"reps":20,"load_scope":"disco"},{"kg":12,"reps":20,"load_scope":"disco"}],"reported_load_kg":12,"load_scope":"disco","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Core efectivamente realizado; 3 series de 20 reps.","source":"Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"},{"id":"2026-10-26|hp261017-w2-d1-c2","date":"2026-10-26","week":2,"day":1,"exercise_id":"hp261017-w2-d1-c2","exercise":"Pullover con disco","sets":[{"kg":12,"reps":30,"load_scope":"disco"},{"kg":12,"reps":30,"load_scope":"disco"},{"kg":12,"reps":30,"load_scope":"disco"}],"reported_load_kg":12,"load_scope":"disco","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Core realizado hoy a pesar de que el plan para próximas sesiones se había cambiado por abdominales cortitos. Registrar ejecución real, conservar la sustitución programada.","source":"Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"},{"id":"2026-10-26|hp261017-w2-d1-c3","date":"2026-10-26","week":2,"day":1,"exercise_id":"hp261017-w2-d1-c3","exercise":"Espinales en colchoneta","sets":[{"kg":null,"reps":20,"load_scope":"peso corporal"},{"kg":null,"reps":20,"load_scope":"peso corporal"},{"kg":null,"reps":20,"load_scope":"peso corporal"}],"reported_load_kg":null,"load_scope":"peso corporal","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Sin peso externo declarado.","source":"Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"},{"id":"2026-10-26|hp261017-w2-d1-e1","date":"2026-10-26","week":2,"day":1,"exercise_id":"hp261017-w2-d1-e1","exercise":"Press inclinado con mancuernas","sets":[{"kg":32,"reps":8,"load_scope":"por mancuerna"},{"kg":32,"reps":8,"load_scope":"por mancuerna"},{"kg":32,"reps":8,"load_scope":"por mancuerna"},{"kg":32,"reps":7,"load_scope":"por mancuerna"}],"reported_load_kg":32,"load_scope":"por mancuerna","reported_sets":4,"record_status":"confirmado","rir":null,"notes":"Carga por mancuerna inferida de la variante e historial.","source":"Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"},{"id":"2026-10-26|hp261017-w2-d1-v2e2","date":"2026-10-26","week":2,"day":1,"exercise_id":"hp261017-w2-d1-v2e2","exercise":"Press plano con mancuernas","sets":[{"kg":32,"reps":6,"load_scope":"por mancuerna"},{"kg":32,"reps":6,"load_scope":"por mancuerna"},{"kg":32,"reps":6,"load_scope":"por mancuerna"}],"reported_load_kg":32,"load_scope":"por mancuerna","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"6 repeticiones por serie; dato real, por debajo del objetivo inicial 8–12.","source":"Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"},{"id":"2026-10-26|hp261017-w2-d1-e3","date":"2026-10-26","week":2,"day":1,"exercise_id":"hp261017-w2-d1-e3","exercise":"Pec deck","sets":[{"kg":80,"reps":12,"load_scope":"máquina"},{"kg":80,"reps":12,"load_scope":"máquina"},{"kg":80,"reps":12,"load_scope":"máquina"}],"reported_load_kg":80,"load_scope":"máquina","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Máquina; peso informado en kg.","source":"Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"},{"id":"2026-10-26|hp261017-w2-d1-v2e4","date":"2026-10-26","week":2,"day":1,"exercise_id":"hp261017-w2-d1-v2e4","exercise":"Press de hombros con mancuernas","sets":[{"kg":26,"reps":8,"load_scope":"por mancuerna"},{"kg":26,"reps":8,"load_scope":"por mancuerna"},{"kg":26,"reps":8,"load_scope":"por mancuerna"}],"reported_load_kg":26,"load_scope":"por mancuerna","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Corregido desde nombre mostrado máquina: realmente mancuernas.","source":"Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"},{"id":"2026-10-26|hp261017-w2-d1-e4","date":"2026-10-26","week":2,"day":1,"exercise_id":"hp261017-w2-d1-e4","exercise":"Vuelos laterales sentado con mancuernas","sets":[{"kg":10,"reps":12,"load_scope":"por mancuerna"},{"kg":10,"reps":12,"load_scope":"por mancuerna"},{"kg":10,"reps":12,"load_scope":"por mancuerna"}],"reported_load_kg":10,"load_scope":"por mancuerna","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Realizado sentado con mancuernas, no máquina.","source":"Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"},{"id":"2026-10-26|hp261017-w2-d1-e5","date":"2026-10-26","week":2,"day":1,"exercise_id":"hp261017-w2-d1-e5","exercise":"Extensión de tríceps con cuerda","sets":[{"kg":80,"reps":10,"load_scope":"polea"},{"kg":80,"reps":10,"load_scope":"polea"},{"kg":80,"reps":10,"load_scope":"polea"}],"reported_load_kg":80,"load_scope":"polea","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"80 kg transcritos exactamente como los indicó el usuario, pese a diferencia respecto del registro anterior; confirmar unidades del equipo en próxima sesión.","source":"Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"},{"id":"2026-10-26|hp261017-w2-d1-v2e7","date":"2026-10-26","week":2,"day":1,"exercise_id":"hp261017-w2-d1-v2e7","exercise":"Patada de burro de tríceps en cable","sets":[{"kg":15,"reps":12,"load_scope":"polea unilateral"},{"kg":15,"reps":12,"load_scope":"polea unilateral"},{"kg":15,"reps":12,"load_scope":"polea unilateral"}],"reported_load_kg":15,"load_scope":"polea unilateral","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Corrección explícita del usuario: patada de burro en cable, no extensión unilateral genérica.","source":"Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"},{"id":"2026-10-27|hp261017-w2-d2-c1","date":"2026-10-27","week":2,"day":2,"exercise_id":"hp261017-w2-d2-c1","exercise":"Abdominales cortitos con disco","sets":[{"kg":12,"reps":30,"load_scope":"disco"},{"kg":12,"reps":30,"load_scope":"disco"},{"kg":12,"reps":30,"load_scope":"disco"}],"reported_load_kg":12,"load_scope":"disco","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"3 vueltas Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.","source":"Registro interactivo confirmado por usuario 27/10/2026"},{"id":"2026-10-27|hp261017-w2-d2-c2","date":"2026-10-27","week":2,"day":2,"exercise_id":"hp261017-w2-d2-c2","exercise":"Vitalizaciones con disco","sets":[{"kg":12,"reps":15,"load_scope":"disco"},{"kg":12,"reps":15,"load_scope":"disco"},{"kg":12,"reps":15,"load_scope":"disco"}],"reported_load_kg":12,"load_scope":"disco","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"3 vueltas Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.","source":"Registro interactivo confirmado por usuario 27/10/2026"},{"id":"2026-10-27|hp261017-w2-d2-c3","date":"2026-10-27","week":2,"day":2,"exercise_id":"hp261017-w2-d2-c3","exercise":"Buenos días con disco","sets":[{"kg":12,"reps":15,"load_scope":"disco"},{"kg":12,"reps":15,"load_scope":"disco"},{"kg":12,"reps":15,"load_scope":"disco"}],"reported_load_kg":12,"load_scope":"disco","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"3 vueltas Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.","source":"Registro interactivo confirmado por usuario 27/10/2026"},{"id":"2026-10-27|hp261017-w2-d2-e5","date":"2026-10-27","week":2,"day":2,"exercise_id":"hp261017-w2-d2-e5","exercise":"Sentadilla libre","sets":[{"kg":80,"reps":10,"load_scope":"peso total con barra"},{"kg":80,"reps":10,"load_scope":"peso total con barra"},{"kg":80,"reps":10,"load_scope":"peso total con barra"},{"kg":80,"reps":10,"load_scope":"peso total con barra"}],"reported_load_kg":80,"load_scope":"peso total con barra","reported_sets":4,"record_status":"confirmado","rir":null,"notes":"Barra incluida en los 80 kg, según registro previo de sentadilla; confirmar si la barra usada fue distinta. Molestia lateral de cadera durante sentadilla. Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.","source":"Registro interactivo confirmado por usuario 27/10/2026"},{"id":"2026-10-27|hp261017-w2-d2-e1","date":"2026-10-27","week":2,"day":2,"exercise_id":"hp261017-w2-d2-e1","exercise":"Prensa horizontal Technogym (asiento deslizante)","sets":[{"kg":160,"reps":15,"load_scope":"carga total indicada en máquina"},{"kg":160,"reps":15,"load_scope":"carga total indicada en máquina"},{"kg":160,"reps":15,"load_scope":"carga total indicada en máquina"}],"reported_load_kg":160,"load_scope":"carga total indicada en máquina","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.","source":"Registro interactivo confirmado por usuario 27/10/2026"},{"id":"2026-10-27|hp261017-w2-d2-e2","date":"2026-10-27","week":2,"day":2,"exercise_id":"hp261017-w2-d2-e2","exercise":"Curl femoral sentado","sets":[{"kg":50,"reps":12,"load_scope":"máquina"},{"kg":50,"reps":12,"load_scope":"máquina"},{"kg":50,"reps":12,"load_scope":"máquina"}],"reported_load_kg":50,"load_scope":"máquina","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.","source":"Registro interactivo confirmado por usuario 27/10/2026"},{"id":"2026-10-27|hp261017-w2-d2-e3","date":"2026-10-27","week":2,"day":2,"exercise_id":"hp261017-w2-d2-e3","exercise":"Extensión de cuádriceps","sets":[{"kg":65,"reps":12,"load_scope":"máquina"},{"kg":70,"reps":12,"load_scope":"máquina"},{"kg":75,"reps":10,"load_scope":"máquina"}],"reported_load_kg":75,"load_scope":"máquina","reported_sets":3,"record_status":"confirmado","rir":null,"notes":"Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.","source":"Registro interactivo confirmado por usuario 27/10/2026"},{"id":"2026-10-27|hp261017-w2-d2-e4","date":"2026-10-27","week":2,"day":2,"exercise_id":"hp261017-w2-d2-e4","exercise":"Gemelos de pie","sets":[{"kg":35,"reps":15,"load_scope":"carga informada; equipo no especificado"},{"kg":40,"reps":15,"load_scope":"carga informada; equipo no especificado"},{"kg":45,"reps":15,"load_scope":"carga informada; equipo no especificado"},{"kg":50,"reps":15,"load_scope":"carga informada; equipo no especificado"}],"reported_load_kg":50,"load_scope":"carga informada; equipo no especificado","reported_sets":4,"record_status":"confirmado","rir":null,"notes":"Usuario corrige explícitamente gemelos parado, no sentado. No comparar directamente carga con gemelos sentado. Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.","source":"Registro interactivo confirmado por usuario 27/10/2026"},{"id":"2026-10-28|hp261017-w2-d3-c1","date":"2026-10-28","week":2,"day":3,"exercise_id":"hp261017-w2-d3-c1","exercise":"Giros con disco","sets":[{"kg":12,"reps":20,"load_scope":"disco"},{"kg":12,"reps":20,"load_scope":"disco"},{"kg":12,"reps":20,"load_scope":"disco"}],"reported_load_kg":12,"reported_sets":3,"record_status":"confirmado","load_scope":"disco","rir":null,"notes":"Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.","source":"Registro usuario 28/10/2026"},{"id":"2026-10-28|hp261017-w2-d3-c2","date":"2026-10-28","week":2,"day":3,"exercise_id":"hp261017-w2-d3-c2","exercise":"Pullover acostado con disco","sets":[{"kg":12,"reps":30,"load_scope":"disco"},{"kg":12,"reps":30,"load_scope":"disco"},{"kg":12,"reps":30,"load_scope":"disco"}],"reported_load_kg":12,"reported_sets":3,"record_status":"confirmado","load_scope":"disco","rir":null,"notes":"Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.","source":"Registro usuario 28/10/2026"},{"id":"2026-10-28|hp261017-w2-d3-c3","date":"2026-10-28","week":2,"day":3,"exercise_id":"hp261017-w2-d3-c3","exercise":"Elevaciones de piernas","sets":[{"kg":0,"reps":30,"load_scope":"peso corporal"},{"kg":0,"reps":30,"load_scope":"peso corporal"},{"kg":0,"reps":30,"load_scope":"peso corporal"}],"reported_load_kg":0,"reported_sets":3,"record_status":"confirmado","load_scope":"peso corporal","rir":null,"notes":"Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.","source":"Registro usuario 28/10/2026"},{"id":"2026-10-28|hp261017-w2-d3-e1","date":"2026-10-28","week":2,"day":3,"exercise_id":"hp261017-w2-d3-e1","exercise":"Jalón al pecho con agarre neutro","sets":[{"kg":70,"reps":12,"load_scope":"máquina"},{"kg":75,"reps":10,"load_scope":"máquina"},{"kg":80,"reps":10,"load_scope":"máquina"},{"kg":85,"reps":8,"load_scope":"máquina"}],"reported_load_kg":85,"reported_sets":4,"record_status":"confirmado","load_scope":"máquina","rir":null,"notes":"Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.","source":"Registro usuario 28/10/2026"},{"id":"2026-10-28|hp261017-w2-d3-e2","date":"2026-10-28","week":2,"day":3,"exercise_id":"hp261017-w2-d3-e2","exercise":"Remo a un brazo con mancuerna","sets":[{"kg":36,"reps":10,"load_scope":"por mancuerna"},{"kg":36,"reps":10,"load_scope":"por mancuerna"},{"kg":36,"reps":10,"load_scope":"por mancuerna"}],"reported_load_kg":36,"reported_sets":3,"record_status":"confirmado","load_scope":"por mancuerna","rir":null,"notes":"Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.","source":"Registro usuario 28/10/2026"},{"id":"2026-10-28|hp261017-w2-d3-e3","date":"2026-10-28","week":2,"day":3,"exercise_id":"hp261017-w2-d3-e3","exercise":"Remo bajo Technogym Low Pull","sets":[{"kg":60,"reps":12,"load_scope":"máquina"},{"kg":60,"reps":12,"load_scope":"máquina"},{"kg":60,"reps":12,"load_scope":"máquina"}],"reported_load_kg":60,"reported_sets":3,"record_status":"confirmado","load_scope":"máquina","rir":null,"notes":"Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.","source":"Registro usuario 28/10/2026"},{"id":"2026-10-28|hp261017-w2-d3-e4","date":"2026-10-28","week":2,"day":3,"exercise_id":"hp261017-w2-d3-e4","exercise":"Face pull con soga en polea","sets":[{"kg":80,"reps":12,"load_scope":"polea"},{"kg":85,"reps":10,"load_scope":"polea"},{"kg":85,"reps":10,"load_scope":"polea"}],"reported_load_kg":85,"reported_sets":3,"record_status":"confirmado","load_scope":"polea","rir":null,"notes":"Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.","source":"Registro usuario 28/10/2026"},{"id":"2026-10-28|hp261017-w2-d3-e5","date":"2026-10-28","week":2,"day":3,"exercise_id":"hp261017-w2-d3-e5","exercise":"Curl con mancuernas","sets":[{"kg":20,"reps":10,"load_scope":"por mancuerna"},{"kg":20,"reps":10,"load_scope":"por mancuerna"},{"kg":20,"reps":10,"load_scope":"por mancuerna"}],"reported_load_kg":20,"reported_sets":3,"record_status":"confirmado","load_scope":"por mancuerna","rir":null,"notes":"Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.","source":"Registro usuario 28/10/2026"},{"id":"2026-10-28|hp261017-w2-d3-v2e6","date":"2026-10-28","week":2,"day":3,"exercise_id":"hp261017-w2-d3-v2e6","exercise":"Curl martillo sentado en banco a 60° con mancuernas","sets":[{"kg":14,"reps":10,"load_scope":"por mancuerna"},{"kg":14,"reps":10,"load_scope":"por mancuerna"},{"kg":14,"reps":10,"load_scope":"por mancuerna"}],"reported_load_kg":14,"reported_sets":3,"record_status":"confirmado","load_scope":"por mancuerna","rir":null,"notes":"Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.","source":"Registro usuario 28/10/2026"},{"id":"2026-10-29|alternative-shoulders-abs-side-cable-pulls","date":"2026-10-29","week":2,"day":4,"exercise_id":"alternative-shoulders-abs-side-cable-pulls","exercise":"Tirones laterales de cintura en polea","sets":[{"kg":50,"reps":20,"load_scope":"polea"},{"kg":50,"reps":20,"load_scope":"polea"},{"kg":50,"reps":20,"load_scope":"polea"}],"reported_load_kg":50,"reported_sets":3,"load_scope":"polea","record_status":"confirmado","rir":null,"notes":"Usuario informó 3x20 con 50 kg en observaciones. En formulario también marcó tres crunch oblicuos a 60/60/060 kg x20, que podrían referirse a este ejercicio; no contarlos adicionalmente sin confirmar. Sensaciones normal. Cadera: dolor persistente.","source":"EFG Training interactivo + observaciones del usuario 29/10/2026"},{"id":"2026-10-29|alternative-shoulders-abs-press-dumbbells","date":"2026-10-29","week":2,"day":4,"exercise_id":"alternative-shoulders-abs-press-dumbbells","exercise":"Press de hombros sentado con mancuernas","sets":[{"kg":26,"reps":10,"load_scope":"por mancuerna"},{"kg":26,"reps":10,"load_scope":"por mancuerna"}],"reported_load_kg":26,"reported_sets":2,"load_scope":"por mancuerna","record_status":"confirmado","rir":null,"notes":"Solo series 1 y 2 marcadas completadas; tercera tenía 26 kg precargados pero repeticiones en blanco y casilla sin marcar: no se contabiliza. Cadera: dolor persistente.","source":"Registro interactivo usuario 29/10/2026"},{"id":"2026-10-29|alternative-shoulders-abs-laterals-dropset","date":"2026-10-29","week":2,"day":4,"exercise_id":"alternative-shoulders-abs-laterals-dropset","exercise":"Vuelos laterales sentado con mancuernas — series descendentes","sets":[{"kg":12,"reps":10,"load_scope":"por mancuerna","drop_set_kg":8,"drop_set_reps":10,"drop_set_load_scope":"por mancuerna"},{"kg":12,"reps":10,"load_scope":"por mancuerna","drop_set_kg":8,"drop_set_reps":10,"drop_set_load_scope":"por mancuerna"},{"kg":12,"reps":10,"load_scope":"por mancuerna","drop_set_kg":8,"drop_set_reps":10,"drop_set_load_scope":"por mancuerna"}],"reported_load_kg":12,"reported_sets":3,"load_scope":"por mancuerna","record_status":"confirmado","rir":null,"notes":"Cada una de las 3 series consistió en 12 kg x10 seguida inmediatamente por 8 kg x10 (drop set). No convertir en 6 series independientes. Cadera: dolor persistente.","source":"Registro interactivo usuario 29/10/2026"},{"id":"2026-10-29|alternative-shoulders-abs-oblique-form-unverified","date":"2026-10-29","week":2,"day":4,"exercise_id":"alternative-shoulders-abs-oblique-form-unverified","exercise":"Crunch oblicuo corto en colchoneta — formulario pendiente de aclarar","sets":[{"kg":60,"reps":20,"load_scope":"peso anotado en formulario, sin validar técnica/equipo"},{"kg":60,"reps":20,"load_scope":"peso anotado en formulario, sin validar técnica/equipo"},{"kg":60,"reps":20,"load_scope":"ingresado originalmente '060 kg'"}],"reported_load_kg":60,"reported_sets":3,"load_scope":"peso anotado, variante incierta","record_status":"pendiente_confirmacion","rir":null,"notes":"El formulario marca 3 series x20 con 60/60/060 kg en 'Crunch oblicuo corto en colchoneta', pero observación expresa describe tirones laterales de cintura en polea 50 kg 3x20. Posible duplicado/error de etiqueta o peso; conservar sin contar volumen efectivo hasta aclarar. Cadera: dolor persistente.","source":"Registro interactivo usuario 29/10/2026"}],"workout_metrics":[{"id":"2026-10-15|apple-watch-strength","date":"2026-10-15","week":4,"day":4,"activity":"Entrenamiento tradicional de fuerza","source":"Apple Watch (capturas del usuario)","start_time":"06:57","end_time":"07:54","duration_seconds":3451,"active_kcal":286,"total_kcal":381,"average_heart_rate_bpm":111,"heart_rate_zones":[{"zone":1,"seconds":3212,"range_bpm":"menos de 131"},{"zone":2,"seconds":225,"range_bpm":"132-143"},{"zone":3,"seconds":0,"range_bpm":"144-154"},{"zone":4,"seconds":0,"range_bpm":"155-166"},{"zone":5,"seconds":0,"range_bpm":"167 o más"}],"weather_celsius":13,"humidity_percent":93},{"id":"2026-10-16|apple-watch-strength","date":"2026-10-16","week":4,"day":5,"activity":"Entrenamiento tradicional de fuerza","source":"Apple Watch (capturas del usuario)","start_time":"06:58","end_time":"07:50","duration_seconds":3120,"active_kcal":228,"total_kcal":314,"average_heart_rate_bpm":103,"heart_rate_zones":[{"zone":1,"seconds":2977,"range_bpm":"menos de 131"},{"zone":2,"seconds":61,"range_bpm":"132-143"},{"zone":3,"seconds":0,"range_bpm":"144-154"},{"zone":4,"seconds":0,"range_bpm":"155-166"},{"zone":5,"seconds":0,"range_bpm":"167 o más"}],"weather_celsius":11,"humidity_percent":90},{"id":"2026-10-21|apple-watch-strength","date":"2026-10-21","week":1,"day":2,"activity":"Entrenamiento tradicional de fuerza","source":"Apple Watch (capturas del usuario recibidas el 22/10/2026; sesión fechada 21/10/2026)","start_time":"06:49","end_time":"07:39","duration_seconds":2999,"active_kcal":250,"total_kcal":334,"average_heart_rate_bpm":111,"heart_rate_zones":[{"zone":1,"seconds":2675,"range_bpm":"menos de 131"},{"zone":2,"seconds":164,"range_bpm":"132-143"},{"zone":3,"seconds":91,"range_bpm":"144-154"},{"zone":4,"seconds":0,"range_bpm":"155-166"},{"zone":5,"seconds":0,"range_bpm":"167 o más"}],"weather_celsius":13,"humidity_percent":79},{"id":"2026-10-23|apple-watch-strength","date":"2026-10-23","week":1,"day":4,"activity":"Entrenamiento tradicional de fuerza — sesión híbrida Piernas B + Hombros","source":"Apple Watch (capturas del usuario, 23/10/2026)","start_time":"06:39","end_time":"07:36","duration_seconds":3419,"active_kcal":309,"total_kcal":405,"average_heart_rate_bpm":116,"heart_rate_zones":[{"zone":1,"seconds":2980,"range_bpm":"menos de 131"},{"zone":2,"seconds":382,"range_bpm":"132-143"},{"zone":3,"seconds":45,"range_bpm":"144-154"},{"zone":4,"seconds":0,"range_bpm":"155-166"},{"zone":5,"seconds":0,"range_bpm":"167 o más"}],"weather_celsius":17,"humidity_percent":94,"notes":"Viernes 23/10: rutina habitual de jueves (Piernas B) + hombros de viernes como excepción; no se realizó curl femoral sentado."}]}
+{
+  "schema_version": 1,
+  "sessions": [
+    {
+      "id": "2026-10-13|s4-d2-extra-sentadilla-profunda",
+      "date": "2026-10-13",
+      "week": 4,
+      "day": 2,
+      "exercise_id": "s4-d2-extra-sentadilla-profunda",
+      "exercise": "Sentadillas profundas sin peso",
+      "sets": [
+        {
+          "kg": 0,
+          "reps": 10,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 10,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 10,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 10,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_lb": 0,
+      "load_scope": "peso corporal",
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Realizadas inmediatamente después de cada una de las cuatro series de sentadilla con barra. El peso corporal no se suma a la carga externa del volumen.",
+      "source": "Resumen de entrenamiento enviado en capturas 13/10/2026"
+    },
+    {
+      "id": "2026-10-13|s4-d2-f21",
+      "date": "2026-10-13",
+      "week": 4,
+      "day": 2,
+      "exercise_id": "s4-d2-f21",
+      "exercise": "Abdominales cortitos c/disco",
+      "sets": [
+        {
+          "kg": 11.34,
+          "reps": 30,
+          "load_lb": 25,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 11.34,
+          "reps": 30,
+          "load_lb": 25,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 11.34,
+          "reps": 30,
+          "load_lb": 25,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_lb": 25,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Circuito core: 3 vueltas, primer ejercicio. La rutina original indicaba 2 series; se registran las 3 realizadas.",
+      "source": "Resumen de entrenamiento enviado en capturas 13/10/2026"
+    },
+    {
+      "id": "2026-10-13|s4-d2-f22",
+      "date": "2026-10-13",
+      "week": 4,
+      "day": 2,
+      "exercise_id": "s4-d2-f22",
+      "exercise": "Vitalizaciones con disco",
+      "sets": [
+        {
+          "kg": 11.34,
+          "reps": 10,
+          "load_lb": 25,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 11.34,
+          "reps": 10,
+          "load_lb": 25,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 11.34,
+          "reps": 10,
+          "load_lb": 25,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_lb": 25,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Circuito core: 3 vueltas, segundo ejercicio. Ejecución confirmada 3×10; plan original 2×6.",
+      "source": "Resumen de entrenamiento enviado en capturas 13/10/2026"
+    },
+    {
+      "id": "2026-10-13|s4-d2-f23",
+      "date": "2026-10-13",
+      "week": 4,
+      "day": 2,
+      "exercise_id": "s4-d2-f23",
+      "exercise": "Buenos dias con disco",
+      "sets": [
+        {
+          "kg": 11.34,
+          "reps": 10,
+          "load_lb": 25,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 11.34,
+          "reps": 10,
+          "load_lb": 25,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 11.34,
+          "reps": 10,
+          "load_lb": 25,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_lb": 25,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Circuito core: 3 vueltas, tercer ejercicio. Ejecución confirmada 3×10; plan original 2×6.",
+      "source": "Resumen de entrenamiento enviado en capturas 13/10/2026"
+    },
+    {
+      "id": "2026-10-13|s4-d2-f24",
+      "date": "2026-10-13",
+      "week": 4,
+      "day": 2,
+      "exercise_id": "s4-d2-f24",
+      "exercise": "Sentadilla libre",
+      "sets": [
+        {
+          "kg": null,
+          "reps": 10
+        },
+        {
+          "kg": null,
+          "reps": 10
+        },
+        {
+          "kg": null,
+          "reps": 10
+        },
+        {
+          "kg": null,
+          "reps": 10
+        }
+      ],
+      "reported_load_lb": 70,
+      "load_scope": "por lado + barra (peso de barra no informado)",
+      "reported_sets": 4,
+      "record_status": "repeticiones_confirmadas_carga_total_incompleta",
+      "rir": 2,
+      "notes": "Luego de cada serie hago 10 sentadillas profundas sin peso",
+      "source": "Resumen de entrenamiento enviado en capturas 13/10/2026",
+      "saved_at": "2026-10-13T23:20:55.394265+00:00"
+    },
+    {
+      "id": "2026-10-13|s4-d2-f25",
+      "date": "2026-10-13",
+      "week": 4,
+      "day": 2,
+      "exercise_id": "s4-d2-f25",
+      "exercise": "Hipthrust con pausa 1-3-1",
+      "sets": [
+        {
+          "kg": null,
+          "reps": 8
+        },
+        {
+          "kg": null,
+          "reps": 8
+        },
+        {
+          "kg": null,
+          "reps": 8
+        }
+      ],
+      "reported_load_lb": 180,
+      "load_scope": "por lado + barra (peso de barra no informado)",
+      "reported_sets": 3,
+      "record_status": "repeticiones_confirmadas_carga_total_incompleta",
+      "rir": 2,
+      "notes": "",
+      "source": "Resumen de entrenamiento enviado en capturas 13/10/2026",
+      "previous_reference": {
+        "load_lb_per_side": 160,
+        "date": null,
+        "source": "progreso destacado en resumen"
+      },
+      "saved_at": "2026-10-13T23:21:53.887925+00:00"
+    },
+    {
+      "id": "2026-10-13|s4-d2-f26",
+      "date": "2026-10-13",
+      "week": 4,
+      "day": 2,
+      "exercise_id": "s4-d2-f26",
+      "exercise": "Estocadas hacia atras con mancuernas",
+      "sets": [
+        {
+          "kg": null,
+          "reps": 8
+        },
+        {
+          "kg": null,
+          "reps": 8
+        },
+        {
+          "kg": null,
+          "reps": 8
+        }
+      ],
+      "reported_load_lb": 50,
+      "load_scope": "50 lb informadas, sin aclarar si carga total o por mancuerna",
+      "reported_sets": 3,
+      "record_status": "repeticiones_confirmadas_alcance_carga_incierto",
+      "rir": 2,
+      "notes": "",
+      "source": "Resumen de entrenamiento enviado en capturas 13/10/2026",
+      "saved_at": "2026-10-13T23:22:33.792471+00:00"
+    },
+    {
+      "id": "2026-10-13|s4-d2-f27",
+      "date": "2026-10-13",
+      "week": 4,
+      "day": 2,
+      "exercise_id": "s4-d2-f27",
+      "exercise": "Extension de cuadriceps",
+      "sets": [
+        {
+          "kg": null,
+          "reps": 12
+        },
+        {
+          "kg": null,
+          "reps": 10
+        },
+        {
+          "kg": null,
+          "reps": 8
+        },
+        {
+          "kg": null,
+          "reps": 8,
+          "load_scope": "maquina: última serie"
+        }
+      ],
+      "reported_load_lb": 235,
+      "load_scope": "máquina; carga progresiva, solo última serie confirmada 235 lb",
+      "reported_sets": 4,
+      "record_status": "repeticiones_confirmadas_cargas_anteriores_pendientes",
+      "rir": 2,
+      "notes": "",
+      "source": "Resumen de entrenamiento enviado en capturas 13/10/2026",
+      "saved_at": "2026-10-13T23:23:50.832558+00:00"
+    },
+    {
+      "id": "2026-10-13|s4-d2-f28",
+      "date": "2026-10-13",
+      "week": 4,
+      "day": 2,
+      "exercise_id": "s4-d2-f28",
+      "exercise": "Aductores",
+      "sets": [
+        {
+          "kg": null,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": null,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": null,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": null,
+          "reps": 12,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_lb": 150,
+      "load_scope": "máquina",
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "rir": 2,
+      "notes": "",
+      "source": "Resumen de entrenamiento enviado en capturas 13/10/2026",
+      "saved_at": "2026-10-13T23:27:18.588292+00:00"
+    },
+    {
+      "id": "2026-10-13|s4-d2-f29",
+      "date": "2026-10-13",
+      "week": 4,
+      "day": 2,
+      "exercise_id": "s4-d2-f29",
+      "exercise": "Patada de gluteos en polea",
+      "sets": [
+        {
+          "kg": null,
+          "reps": 10
+        },
+        {
+          "kg": null,
+          "reps": 10
+        },
+        {
+          "kg": null,
+          "reps": 10
+        },
+        {
+          "kg": null,
+          "reps": 10
+        }
+      ],
+      "reported_load_lb": 47.5,
+      "load_scope": "polea",
+      "reported_sets": 0,
+      "record_status": "carga_confirmada_series_y_reps_no_confirmadas",
+      "rir": 2,
+      "notes": "",
+      "source": "Resumen de entrenamiento enviado en capturas 13/10/2026",
+      "previous_reference": {
+        "load_lb": 40,
+        "date": null,
+        "source": "progreso destacado en resumen"
+      },
+      "saved_at": "2026-10-13T23:29:59.026628+00:00"
+    },
+    {
+      "id": "2026-10-14|s4-d3-f33",
+      "date": "2026-10-14",
+      "week": 4,
+      "day": 3,
+      "exercise_id": "s4-d3-f33",
+      "exercise": "Giros rusos",
+      "sets": [
+        {
+          "kg": 11.34,
+          "reps": 40,
+          "load_lb": 25,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 11.34,
+          "reps": 40,
+          "load_lb": 25,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 11.34,
+          "reps": 40,
+          "load_lb": 25,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_lb": 25,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "referencia_repetida_no_reconfirmada",
+      "rir": null,
+      "notes": "20 por lado en cada vuelta; circuito core. Peso de referencia anterior.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-14|s4-d3-f34",
+      "date": "2026-10-14",
+      "week": 4,
+      "day": 3,
+      "exercise_id": "s4-d3-f34",
+      "exercise": "Abdominales bisagra",
+      "sets": [
+        {
+          "kg": 0,
+          "reps": 10,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 10,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 10,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_lb": 0,
+      "load_scope": "peso corporal",
+      "reported_sets": 3,
+      "record_status": "referencia_repetida_no_reconfirmada",
+      "rir": null,
+      "notes": "Circuito core; se mantiene referencia anterior.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-14|s4-d3-f35",
+      "date": "2026-10-14",
+      "week": 4,
+      "day": 3,
+      "exercise_id": "s4-d3-f35",
+      "exercise": "Elevaciones de piernas",
+      "sets": [
+        {
+          "kg": 0,
+          "reps": 10,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 10,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 10,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_lb": 0,
+      "load_scope": "peso corporal",
+      "reported_sets": 3,
+      "record_status": "referencia_repetida_no_reconfirmada",
+      "rir": null,
+      "notes": "Circuito core; se mantiene referencia anterior.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-14|s4-d3-f41",
+      "date": "2026-10-14",
+      "week": 4,
+      "day": 3,
+      "exercise_id": "s4-d3-f41",
+      "exercise": "Press francés con mancuernas",
+      "sets": [
+        {
+          "kg": 18.14,
+          "reps": 10,
+          "load_lb": 40,
+          "load_scope": "mancuerna (alcance exacto no confirmado)"
+        },
+        {
+          "kg": 18.14,
+          "reps": 10,
+          "load_lb": 40,
+          "load_scope": "mancuerna (alcance exacto no confirmado)"
+        },
+        {
+          "kg": 18.14,
+          "reps": 10,
+          "load_lb": 40,
+          "load_scope": "mancuerna (alcance exacto no confirmado)"
+        }
+      ],
+      "reported_load_lb": 40,
+      "load_scope": "mancuerna (alcance exacto no confirmado)",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Superserie con flexiones de tríceps, 3 vueltas.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-14|s4-d3-f36",
+      "date": "2026-10-14",
+      "week": 4,
+      "day": 3,
+      "exercise_id": "s4-d3-f36",
+      "exercise": "Flexiones para tríceps",
+      "sets": [
+        {
+          "kg": 0,
+          "reps": 15,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 15,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 15,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_lb": 0,
+      "load_scope": "peso corporal",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Superserie con press francés, 3 vueltas.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-14|s4-d3-f37",
+      "date": "2026-10-14",
+      "week": 4,
+      "day": 3,
+      "exercise_id": "s4-d3-f37",
+      "exercise": "Fondos en paralelas",
+      "sets": [
+        {
+          "kg": 0,
+          "reps": 18,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 18,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 18,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_lb": 0,
+      "load_scope": "peso corporal",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-14|s4-d3-f38",
+      "date": "2026-10-14",
+      "week": 4,
+      "day": 3,
+      "exercise_id": "s4-d3-f38",
+      "exercise": "Curl martillo",
+      "sets": [
+        {
+          "kg": 22.68,
+          "reps": 10,
+          "load_lb": 50,
+          "load_scope": "mancuerna (referencia anterior)"
+        },
+        {
+          "kg": 22.68,
+          "reps": 10,
+          "load_lb": 50,
+          "load_scope": "mancuerna (referencia anterior)"
+        },
+        {
+          "kg": 22.68,
+          "reps": 10,
+          "load_lb": 50,
+          "load_scope": "mancuerna (referencia anterior)"
+        },
+        {
+          "kg": 22.68,
+          "reps": 10,
+          "load_lb": 50,
+          "load_scope": "mancuerna (referencia anterior)"
+        }
+      ],
+      "reported_load_lb": 50,
+      "load_scope": "mancuerna (referencia anterior)",
+      "reported_sets": 4,
+      "record_status": "reps_confirmadas_peso_referencia",
+      "rir": null,
+      "notes": "Peso sin cambio informado; se conserva referencia de semana 3.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-14|s4-d3-f39",
+      "date": "2026-10-14",
+      "week": 4,
+      "day": 3,
+      "exercise_id": "s4-d3-f39",
+      "exercise": "Tríceps con soga",
+      "sets": [
+        {
+          "kg": 35.15,
+          "reps": 10,
+          "load_lb": 77.5,
+          "load_scope": "polea"
+        },
+        {
+          "kg": 35.15,
+          "reps": 10,
+          "load_lb": 77.5,
+          "load_scope": "polea"
+        },
+        {
+          "kg": 35.15,
+          "reps": 10,
+          "load_lb": 77.5,
+          "load_scope": "polea"
+        }
+      ],
+      "reported_load_lb": 77.5,
+      "load_scope": "polea",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Superserie con curl 21, 3 vueltas.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-14|s4-d3-f40",
+      "date": "2026-10-14",
+      "week": 4,
+      "day": 3,
+      "exercise_id": "s4-d3-f40",
+      "exercise": "Curl 21 con barra Z",
+      "sets": [
+        {
+          "kg": 9.07,
+          "reps": 21,
+          "load_lb": 20,
+          "load_scope": "por lado + barra Z (peso de barra no informado)"
+        },
+        {
+          "kg": 9.07,
+          "reps": 21,
+          "load_lb": 20,
+          "load_scope": "por lado + barra Z (peso de barra no informado)"
+        },
+        {
+          "kg": 9.07,
+          "reps": 21,
+          "load_lb": 20,
+          "load_scope": "por lado + barra Z (peso de barra no informado)"
+        }
+      ],
+      "reported_load_lb": 20,
+      "load_scope": "por lado + barra Z (peso de barra no informado)",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Cada serie: 7+7+7, confirmado expresamente; superserie con tríceps soga.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-15|s4-d4-f44",
+      "date": "2026-10-15",
+      "week": 4,
+      "day": 4,
+      "exercise_id": "s4-d4-f44",
+      "exercise": "Plancha común",
+      "sets": [
+        {
+          "kg": 0,
+          "reps": 30,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 30,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 30,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_lb": 0,
+      "load_scope": "peso corporal",
+      "reported_sets": 3,
+      "record_status": "referencia_repetida_no_reconfirmada",
+      "rir": null,
+      "notes": "Repeticiones expresadas en segundos, no repeticiones; referencia anterior.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-15|s4-d4-f45",
+      "date": "2026-10-15",
+      "week": 4,
+      "day": 4,
+      "exercise_id": "s4-d4-f45",
+      "exercise": "Vitalizaciones con disco",
+      "sets": [
+        {
+          "kg": 11.34,
+          "reps": 10,
+          "load_lb": 25,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 11.34,
+          "reps": 10,
+          "load_lb": 25,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 11.34,
+          "reps": 10,
+          "load_lb": 25,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_lb": 25,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "referencia_repetida_no_reconfirmada",
+      "rir": null,
+      "notes": "Core, referencia anterior.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-15|s4-d4-f46",
+      "date": "2026-10-15",
+      "week": 4,
+      "day": 4,
+      "exercise_id": "s4-d4-f46",
+      "exercise": "Buenos dias con disco",
+      "sets": [
+        {
+          "kg": 11.34,
+          "reps": 20,
+          "load_lb": 25,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 11.34,
+          "reps": 20,
+          "load_lb": 25,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 11.34,
+          "reps": 20,
+          "load_lb": 25,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_lb": 25,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "referencia_repetida_no_reconfirmada",
+      "rir": null,
+      "notes": "Core, referencia anterior.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-15|s4-d4-f47",
+      "date": "2026-10-15",
+      "week": 4,
+      "day": 4,
+      "exercise_id": "s4-d4-f47",
+      "exercise": "Peso muerto rumano",
+      "sets": [
+        {
+          "kg": 34.02,
+          "reps": 10,
+          "load_lb": 75,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 34.02,
+          "reps": 10,
+          "load_lb": 75,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 34.02,
+          "reps": 10,
+          "load_lb": 75,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 34.02,
+          "reps": 10,
+          "load_lb": 75,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_lb": 75,
+      "load_scope": "por mancuerna",
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Progresión por repeticiones.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-15|s4-d4-f48",
+      "date": "2026-10-15",
+      "week": 4,
+      "day": 4,
+      "exercise_id": "s4-d4-f48",
+      "exercise": "Prensa 45°",
+      "sets": [
+        {
+          "kg": 81.65,
+          "reps": 12,
+          "load_lb": 180,
+          "load_scope": "por lado (peso de plataforma no informado)"
+        },
+        {
+          "kg": 81.65,
+          "reps": 12,
+          "load_lb": 180,
+          "load_scope": "por lado (peso de plataforma no informado)"
+        },
+        {
+          "kg": 81.65,
+          "reps": 12,
+          "load_lb": 180,
+          "load_scope": "por lado (peso de plataforma no informado)"
+        }
+      ],
+      "reported_load_lb": 180,
+      "load_scope": "por lado (peso de plataforma no informado)",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Superserie con gemelos, 3 vueltas.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-15|s4-d4-f49",
+      "date": "2026-10-15",
+      "week": 4,
+      "day": 4,
+      "exercise_id": "s4-d4-f49",
+      "exercise": "Gemelos",
+      "sets": [
+        {
+          "kg": 81.65,
+          "reps": 15,
+          "load_lb": 180,
+          "load_scope": "por lado en prensa"
+        },
+        {
+          "kg": 81.65,
+          "reps": 15,
+          "load_lb": 180,
+          "load_scope": "por lado en prensa"
+        },
+        {
+          "kg": 81.65,
+          "reps": 15,
+          "load_lb": 180,
+          "load_scope": "por lado en prensa"
+        }
+      ],
+      "reported_load_lb": 180,
+      "load_scope": "por lado en prensa",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Superserie con prensa, 3 vueltas.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-15|s4-d4-f50",
+      "date": "2026-10-15",
+      "week": 4,
+      "day": 4,
+      "exercise_id": "s4-d4-f50",
+      "exercise": "Sentadilla bulgara",
+      "sets": [
+        {
+          "kg": 22.68,
+          "reps": 10,
+          "load_lb": 50,
+          "load_scope": "mancuerna (alcance no confirmado)"
+        },
+        {
+          "kg": 22.68,
+          "reps": 10,
+          "load_lb": 50,
+          "load_scope": "mancuerna (alcance no confirmado)"
+        },
+        {
+          "kg": 22.68,
+          "reps": 10,
+          "load_lb": 50,
+          "load_scope": "mancuerna (alcance no confirmado)"
+        }
+      ],
+      "reported_load_lb": 50,
+      "load_scope": "mancuerna (alcance no confirmado)",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "10 repeticiones por pierna en cada serie.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-15|s4-d4-f51",
+      "date": "2026-10-15",
+      "week": 4,
+      "day": 4,
+      "exercise_id": "s4-d4-f51",
+      "exercise": "Curl femorales maquina",
+      "sets": [
+        {
+          "kg": 31.75,
+          "reps": 12,
+          "load_scope": "máquina, cargas por serie",
+          "load_lb": 70
+        },
+        {
+          "kg": 40.82,
+          "reps": 10,
+          "load_scope": "máquina, cargas por serie",
+          "load_lb": 90
+        },
+        {
+          "kg": 49.9,
+          "reps": 8,
+          "load_scope": "máquina, cargas por serie",
+          "load_lb": 110
+        },
+        {
+          "kg": 58.97,
+          "reps": 6,
+          "load_scope": "máquina, cargas por serie",
+          "load_lb": 130
+        }
+      ],
+      "reported_load_lb": null,
+      "load_scope": "máquina, cargas por serie",
+      "reported_sets": 4,
+      "record_status": "ultima_serie_confirmada_primeras_tres_referencia",
+      "rir": null,
+      "notes": "Cargas 70,90,110,130 lb por serie. Última 130 lb x6 confirmada; primeras tres se conservan como referencia previa.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-15|s4-d4-f52",
+      "date": "2026-10-15",
+      "week": 4,
+      "day": 4,
+      "exercise_id": "s4-d4-f52",
+      "exercise": "Press militar",
+      "sets": [
+        {
+          "kg": 27.22,
+          "reps": 7,
+          "load_lb": 60,
+          "load_scope": "por mancuerna, sentado"
+        },
+        {
+          "kg": 27.22,
+          "reps": 7,
+          "load_lb": 60,
+          "load_scope": "por mancuerna, sentado"
+        },
+        {
+          "kg": 27.22,
+          "reps": 7,
+          "load_lb": 60,
+          "load_scope": "por mancuerna, sentado"
+        },
+        {
+          "kg": 27.22,
+          "reps": 7,
+          "load_lb": 60,
+          "load_scope": "por mancuerna, sentado"
+        }
+      ],
+      "reported_load_lb": 60,
+      "load_scope": "por mancuerna, sentado",
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-15|s4-d4-f53",
+      "date": "2026-10-15",
+      "week": 4,
+      "day": 4,
+      "exercise_id": "s4-d4-f53",
+      "exercise": "Vuelos laterales",
+      "sets": [
+        {
+          "kg": 13.61,
+          "reps": 10,
+          "load_lb": 30,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 13.61,
+          "reps": 10,
+          "load_lb": 30,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 13.61,
+          "reps": 10,
+          "load_lb": 30,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_lb": 30,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Superserie con vuelos posteriores, 3 vueltas.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-15|s4-d4-f54",
+      "date": "2026-10-15",
+      "week": 4,
+      "day": 4,
+      "exercise_id": "s4-d4-f54",
+      "exercise": "Vuelos posteriores",
+      "sets": [
+        {
+          "kg": 18.14,
+          "reps": 10,
+          "load_lb": 40,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 18.14,
+          "reps": 10,
+          "load_lb": 40,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 18.14,
+          "reps": 10,
+          "load_lb": 40,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_lb": 40,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Superserie con vuelos laterales, 3 vueltas.",
+      "source": "Seguimiento conversacional Edu Fitness, 14–15/10/2026"
+    },
+    {
+      "id": "2026-10-16|s4-d5-f01",
+      "date": "2026-10-16",
+      "week": 4,
+      "day": 5,
+      "exercise_id": "s4-d5-f01",
+      "exercise": "Abdominales cortitos con disco",
+      "sets": [
+        {
+          "kg": null,
+          "reps": 30,
+          "load_lb": null,
+          "load_scope": "disco, peso sin confirmar"
+        },
+        {
+          "kg": null,
+          "reps": 30,
+          "load_lb": null,
+          "load_scope": "disco, peso sin confirmar"
+        },
+        {
+          "kg": null,
+          "reps": 30,
+          "load_lb": null,
+          "load_scope": "disco, peso sin confirmar"
+        }
+      ],
+      "reported_load_lb": null,
+      "load_scope": "disco, peso sin confirmar",
+      "reported_sets": 3,
+      "record_status": "referencia no confirmada",
+      "rir": null,
+      "notes": "Circuito core 3 vueltas; series/reps de semana anterior.",
+      "source": "Seguimiento conversacional Edu Fitness, 16/10/2026"
+    },
+    {
+      "id": "2026-10-16|s4-d5-f02",
+      "date": "2026-10-16",
+      "week": 4,
+      "day": 5,
+      "exercise_id": "s4-d5-f02",
+      "exercise": "Pullover con disco",
+      "sets": [
+        {
+          "kg": null,
+          "reps": 20,
+          "load_lb": null,
+          "load_scope": "disco, peso sin confirmar"
+        },
+        {
+          "kg": null,
+          "reps": 20,
+          "load_lb": null,
+          "load_scope": "disco, peso sin confirmar"
+        },
+        {
+          "kg": null,
+          "reps": 20,
+          "load_lb": null,
+          "load_scope": "disco, peso sin confirmar"
+        }
+      ],
+      "reported_load_lb": null,
+      "load_scope": "disco, peso sin confirmar",
+      "reported_sets": 3,
+      "record_status": "confirmado parcial",
+      "rir": null,
+      "notes": "Circuito core 3 vueltas; repeticiones confirmadas, peso sin confirmar.",
+      "source": "Seguimiento conversacional Edu Fitness, 16/10/2026"
+    },
+    {
+      "id": "2026-10-16|s4-d5-f03",
+      "date": "2026-10-16",
+      "week": 4,
+      "day": 5,
+      "exercise_id": "s4-d5-f03",
+      "exercise": "Hiperextensiones lumbares",
+      "sets": [
+        {
+          "kg": 0,
+          "reps": 20,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 20,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 20,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_lb": 0,
+      "load_scope": "peso corporal",
+      "reported_sets": 3,
+      "record_status": "referencia no confirmada",
+      "rir": null,
+      "notes": "Circuito core 3 vueltas; referencia semana anterior.",
+      "source": "Seguimiento conversacional Edu Fitness, 16/10/2026"
+    },
+    {
+      "id": "2026-10-16|s4-d5-f04",
+      "date": "2026-10-16",
+      "week": 4,
+      "day": 5,
+      "exercise_id": "s4-d5-f04",
+      "exercise": "Remo Pendlay",
+      "sets": [
+        {
+          "kg": 22.68,
+          "reps": 8,
+          "load_lb": 50,
+          "load_scope": "por lado + barra"
+        },
+        {
+          "kg": 22.68,
+          "reps": 8,
+          "load_lb": 50,
+          "load_scope": "por lado + barra"
+        },
+        {
+          "kg": 22.68,
+          "reps": 8,
+          "load_lb": 50,
+          "load_scope": "por lado + barra"
+        },
+        {
+          "kg": 22.68,
+          "reps": 8,
+          "load_lb": 50,
+          "load_scope": "por lado + barra"
+        }
+      ],
+      "reported_load_lb": 50,
+      "load_scope": "por lado + barra",
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "",
+      "source": "Seguimiento conversacional Edu Fitness, 16/10/2026"
+    },
+    {
+      "id": "2026-10-16|s4-d5-f05",
+      "date": "2026-10-16",
+      "week": 4,
+      "day": 5,
+      "exercise_id": "s4-d5-f05",
+      "exercise": "Press inclinado con mancuernas",
+      "sets": [
+        {
+          "kg": 31.75,
+          "reps": 9,
+          "load_lb": 70,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 31.75,
+          "reps": 9,
+          "load_lb": 70,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 31.75,
+          "reps": 9,
+          "load_lb": 70,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 31.75,
+          "reps": 9,
+          "load_lb": 70,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_lb": 70,
+      "load_scope": "por mancuerna",
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "",
+      "source": "Seguimiento conversacional Edu Fitness, 16/10/2026"
+    },
+    {
+      "id": "2026-10-16|s4-d5-f06",
+      "date": "2026-10-16",
+      "week": 4,
+      "day": 5,
+      "exercise_id": "s4-d5-f06",
+      "exercise": "Dominadas supinas",
+      "sets": [
+        {
+          "kg": 0,
+          "reps": 12,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 12,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 12,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_lb": 0,
+      "load_scope": "peso corporal",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Superserie con flexiones, 3 vueltas.",
+      "source": "Seguimiento conversacional Edu Fitness, 16/10/2026"
+    },
+    {
+      "id": "2026-10-16|s4-d5-f07",
+      "date": "2026-10-16",
+      "week": 4,
+      "day": 5,
+      "exercise_id": "s4-d5-f07",
+      "exercise": "Flexiones de brazos",
+      "sets": [
+        {
+          "kg": 0,
+          "reps": 15,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 15,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 15,
+          "load_lb": 0,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_lb": 0,
+      "load_scope": "peso corporal",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Superserie con dominadas supinas, 3 vueltas.",
+      "source": "Seguimiento conversacional Edu Fitness, 16/10/2026"
+    },
+    {
+      "id": "2026-10-16|s4-d5-f08",
+      "date": "2026-10-16",
+      "week": 4,
+      "day": 5,
+      "exercise_id": "s4-d5-f08",
+      "exercise": "Pec deck",
+      "sets": [
+        {
+          "kg": 72.57,
+          "reps": 10,
+          "load_lb": 160,
+          "load_scope": "carga de máquina"
+        },
+        {
+          "kg": 72.57,
+          "reps": 10,
+          "load_lb": 160,
+          "load_scope": "carga de máquina"
+        },
+        {
+          "kg": 72.57,
+          "reps": 10,
+          "load_lb": 160,
+          "load_scope": "carga de máquina"
+        },
+        {
+          "kg": 72.57,
+          "reps": 10,
+          "load_lb": 160,
+          "load_scope": "carga de máquina"
+        }
+      ],
+      "reported_load_lb": 160,
+      "load_scope": "carga de máquina",
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Atención a molestias de codo.",
+      "source": "Seguimiento conversacional Edu Fitness, 16/10/2026"
+    },
+    {
+      "id": "2026-10-16|s4-d5-f09",
+      "date": "2026-10-16",
+      "week": 4,
+      "day": 5,
+      "exercise_id": "s4-d5-f09",
+      "exercise": "Jalón dorsal agarre neutro",
+      "sets": [
+        {
+          "kg": 77.11,
+          "reps": 9,
+          "load_lb": 170,
+          "load_scope": "carga de máquina"
+        },
+        {
+          "kg": 77.11,
+          "reps": 9,
+          "load_lb": 170,
+          "load_scope": "carga de máquina"
+        },
+        {
+          "kg": 77.11,
+          "reps": 9,
+          "load_lb": 170,
+          "load_scope": "carga de máquina"
+        },
+        {
+          "kg": 77.11,
+          "reps": 9,
+          "load_lb": 170,
+          "load_scope": "carga de máquina"
+        }
+      ],
+      "reported_load_lb": 170,
+      "load_scope": "carga de máquina",
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "",
+      "source": "Seguimiento conversacional Edu Fitness, 16/10/2026"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-c1",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-c1",
+      "exercise": "Abdominales cortitos con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Circuito core 3 vueltas.",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-c2",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-c2",
+      "exercise": "Vitalizaciones con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Circuito core 3 vueltas.",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-c3",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-c3",
+      "exercise": "Buenos días con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 18,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Circuito core 3 vueltas.",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-e1",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-e1",
+      "exercise": "Prensa horizontal Technogym (asiento deslizante)",
+      "sets": [
+        {
+          "kg": 160,
+          "reps": 12,
+          "load_scope": "carga total de máquina"
+        },
+        {
+          "kg": 160,
+          "reps": 12,
+          "load_scope": "carga total de máquina"
+        },
+        {
+          "kg": 160,
+          "reps": 12,
+          "load_scope": "carga total de máquina"
+        }
+      ],
+      "reported_load_kg": 160,
+      "load_scope": "carga total de máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Máquina identificada por fotografía: prensa horizontal Technogym de placas y asiento deslizante; 160 kg indicados en máquina, 3×12. Usuario reporta recorrido corto y poco estímulo. No equivalente a sentadilla libre.",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-e2",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-e2",
+      "exercise": "Sentadilla libre",
+      "sets": [
+        {
+          "kg": 70,
+          "reps": 12,
+          "load_scope": "peso total: 25 kg por lado + barra de 20 kg",
+          "load_per_side_kg": 25,
+          "bar_kg": 20
+        },
+        {
+          "kg": 70,
+          "reps": 12,
+          "load_scope": "peso total: 25 kg por lado + barra de 20 kg",
+          "load_per_side_kg": 25,
+          "bar_kg": 20
+        },
+        {
+          "kg": 70,
+          "reps": 12,
+          "load_scope": "peso total: 25 kg por lado + barra de 20 kg",
+          "load_per_side_kg": 25,
+          "bar_kg": 20
+        }
+      ],
+      "reported_load_kg": 70,
+      "load_scope": "peso total: 25 kg por lado + barra de 20 kg",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "3×12 con 70 kg totales (25 kg por lado y barra olímpica de 20 kg). Confirmado por el usuario.",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-e3",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-e3",
+      "exercise": "Curl femoral sentado",
+      "sets": [
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 50,
+      "load_scope": "máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Corrección: sentado, no acostado.",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-e4",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-e4",
+      "exercise": "Extensión de cuádriceps",
+      "sets": [
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 65,
+          "reps": 10,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 70,
+          "reps": 10,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 60,
+      "load_scope": "máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-21|hp261017-w1-d2-e5",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "exercise_id": "hp261017-w1-d2-e5",
+      "exercise": "Gemelos sentado",
+      "sets": [
+        {
+          "kg": 35,
+          "reps": 15,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 40,
+          "reps": 15,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 40,
+          "reps": 15,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 35,
+      "load_scope": "máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Corrección: sentado, no de pie.",
+      "source": "Registro enviado por Edu 21/10/2026; día martes realizado miércoles"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-c1",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-c1",
+      "exercise": "Giros con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Sustituyó abdominales cortitos. 3 vueltas. No se precisó si las 20 repeticiones son totales o por lado.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-c2",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-c2",
+      "exercise": "Pullover acostado con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Core/activación de espalda, 3 vueltas.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-c3",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-c3",
+      "exercise": "Elevaciones de piernas",
+      "sets": [
+        {
+          "kg": null,
+          "reps": 30,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": null,
+          "reps": 30,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": null,
+          "reps": 30,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_kg": null,
+      "load_scope": "peso corporal",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "3 vueltas. Peso corporal, carga externa no informada.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-e1",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-e1",
+      "exercise": "Jalón al pecho con agarre neutro",
+      "sets": [
+        {
+          "kg": 70,
+          "reps": 10,
+          "load_scope": "máquina/polea"
+        },
+        {
+          "kg": null,
+          "reps": null,
+          "load_scope": "máquina/polea"
+        },
+        {
+          "kg": null,
+          "reps": null,
+          "load_scope": "máquina/polea"
+        }
+      ],
+      "reported_load_kg": 70,
+      "load_scope": "máquina/polea",
+      "reported_sets": 3,
+      "record_status": "parcial; tercera serie por verificar",
+      "rir": null,
+      "notes": "Serie 2 sin datos. Serie 3: ingresadas '99 repeticiones' sin carga; dato atípico pendiente de confirmar, no computado como repeticiones realizadas.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-e2",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-e2",
+      "exercise": "Remo a un brazo con mancuerna",
+      "sets": [
+        {
+          "kg": 32,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 36,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 36,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 32,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Ejercicio real; reemplaza remo con pecho apoyado, no disponible.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-e3",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-e3",
+      "exercise": "Remo bajo Technogym Low Pull",
+      "sets": [
+        {
+          "kg": 40,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 40,
+      "load_scope": "máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado; variante por verificar",
+      "rir": null,
+      "notes": "Máquina identificada por foto del usuario (22/10/2026): Technogym Low Pull de remo bajo sentado. Se conservan cargas registradas de máquina de 40/50/60 kg, 12 repeticiones por serie. No se infiere carga por brazo. Aclaración posterior de Edu: comenzó con un peso bajo para familiarizarse con la máquina y aumentó progresivamente; primera sesión de uso, no considerar la primera carga como máxima.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-e4",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-e4",
+      "exercise": "Face pull con soga en polea",
+      "sets": [
+        {
+          "kg": 70,
+          "reps": 12,
+          "load_scope": "máquina/polea"
+        },
+        {
+          "kg": 75,
+          "reps": 10,
+          "load_scope": "máquina/polea"
+        },
+        {
+          "kg": 80,
+          "reps": null,
+          "load_scope": "máquina/polea"
+        }
+      ],
+      "reported_load_kg": 70,
+      "load_scope": "máquina/polea",
+      "reported_sets": 3,
+      "record_status": "parcial",
+      "rir": null,
+      "notes": "Reemplaza pec deck inverso que no está disponible. Última serie: 80 kg, repeticiones sin indicar. Carga en kg según formulario; sin equivalencia entre poleas.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-22|hp261017-w1-d3-e5",
+      "date": "2026-10-22",
+      "week": 1,
+      "day": 3,
+      "exercise_id": "hp261017-w1-d3-e5",
+      "exercise": "Curl con mancuernas",
+      "sets": [
+        {
+          "kg": 20,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": null,
+          "reps": null,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": null,
+          "reps": null,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 20,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "parcial",
+      "rir": null,
+      "notes": "Solo primera serie informada. Las restantes no se completaron en el formulario.",
+      "source": "Registro de Edu 22/10/2026; rutina miércoles realizada jueves"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-c1",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-c1",
+      "exercise": "Plancha frontal",
+      "sets": [
+        {
+          "kg": null,
+          "reps": 50,
+          "load_scope": "peso corporal",
+          "duration_unit": "seconds"
+        },
+        {
+          "kg": null,
+          "reps": 50,
+          "load_scope": "peso corporal",
+          "duration_unit": "seconds"
+        },
+        {
+          "kg": null,
+          "reps": 50,
+          "load_scope": "peso corporal",
+          "duration_unit": "seconds"
+        }
+      ],
+      "reported_load_kg": null,
+      "load_scope": "peso corporal",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Duración expresada en segundos; core triserie de 3 vueltas.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-c2",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-c2",
+      "exercise": "Vitalizaciones con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Core triserie de 3 vueltas.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-c3",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-c3",
+      "exercise": "Buenos días con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Core triserie de 3 vueltas.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-e1",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-e1",
+      "exercise": "Hip thrust con barra libre",
+      "sets": [
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "discos por lado, barra no incluida"
+        },
+        {
+          "kg": 60,
+          "reps": 10,
+          "load_scope": "discos por lado, barra no incluida"
+        },
+        {
+          "kg": 60,
+          "reps": 10,
+          "load_scope": "discos por lado, barra no incluida"
+        }
+      ],
+      "reported_load_kg": 50,
+      "load_scope": "discos por lado, barra no incluida",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Cargas 50/60/60 kg de discos POR LADO. Peso de barra de esta sesión no confirmado; no calcular carga total.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-e2",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-e2",
+      "exercise": "Peso muerto rumano con mancuernas",
+      "sets": [
+        {
+          "kg": 32,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 32,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "3x12 con 32 kg por mancuerna.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-e3",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-e3",
+      "exercise": "Prensa a 45°",
+      "sets": [
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "por lado"
+        },
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "por lado"
+        },
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "por lado"
+        }
+      ],
+      "reported_load_kg": 60,
+      "load_scope": "por lado",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Superserie B con gemelos en prensa, 3 vueltas.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-e4",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-e4",
+      "exercise": "Gemelos en prensa a 45°",
+      "sets": [
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "por lado"
+        },
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "por lado"
+        },
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "por lado"
+        }
+      ],
+      "reported_load_kg": 60,
+      "load_scope": "por lado",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Superserie B con prensa, 3 vueltas.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-extra1",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-extra1",
+      "exercise": "Press de hombros con mancuernas",
+      "sets": [
+        {
+          "kg": 26,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 26,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 26,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 26,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "3×12 con 26 kg por mancuerna. Ejercicio adicional excepcional.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-extra2",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-extra2",
+      "exercise": "Vuelos laterales con mancuernas — tramo 12 kg",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 12,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 12,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Superserie de 3 vueltas: 12 repeticiones con 12 kg por mancuerna, seguidas inmediatamente de 12 repeticiones con 6 kg por mancuerna. Tramo inicial.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes",
+      "set_type": "superserie",
+      "set_group": "H"
+    },
+    {
+      "id": "2026-10-23|hp261017-w1-d4-extra3",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "exercise_id": "hp261017-w1-d4-extra3",
+      "exercise": "Vuelos laterales con mancuernas — tramo 6 kg",
+      "sets": [
+        {
+          "kg": 6,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 6,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 6,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 6,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Superserie de 3 vueltas: tramo de 6 kg por mancuerna inmediatamente después de las 12 repeticiones con 12 kg por mancuerna. No son seis series independientes.",
+      "source": "Registro Edu 23/10/2026, rutina jueves realizada viernes",
+      "set_type": "superserie",
+      "set_group": "H"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-c1",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-c1",
+      "exercise": "Sit ups con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Core efectivamente realizado; 3 series de 20 reps.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-c2",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-c2",
+      "exercise": "Pullover con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Core realizado hoy a pesar de que el plan para próximas sesiones se había cambiado por abdominales cortitos. Registrar ejecución real, conservar la sustitución programada.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-c3",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-c3",
+      "exercise": "Espinales en colchoneta",
+      "sets": [
+        {
+          "kg": null,
+          "reps": 20,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": null,
+          "reps": 20,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": null,
+          "reps": 20,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_kg": null,
+      "load_scope": "peso corporal",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Sin peso externo declarado.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-e1",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-e1",
+      "exercise": "Press inclinado con mancuernas",
+      "sets": [
+        {
+          "kg": 32,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 7,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 32,
+      "load_scope": "por mancuerna",
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Carga por mancuerna inferida de la variante e historial.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-v2e2",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-v2e2",
+      "exercise": "Press plano con mancuernas",
+      "sets": [
+        {
+          "kg": 32,
+          "reps": 6,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 6,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 6,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 32,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "6 repeticiones por serie; dato real, por debajo del objetivo inicial 8–12.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-e3",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-e3",
+      "exercise": "Pec deck",
+      "sets": [
+        {
+          "kg": 80,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 80,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 80,
+          "reps": 12,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 80,
+      "load_scope": "máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Máquina; peso informado en kg.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-v2e4",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-v2e4",
+      "exercise": "Press de hombros con mancuernas",
+      "sets": [
+        {
+          "kg": 26,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 26,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 26,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 26,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Corregido desde nombre mostrado máquina: realmente mancuernas.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-e4",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-e4",
+      "exercise": "Vuelos laterales sentado con mancuernas",
+      "sets": [
+        {
+          "kg": 10,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 10,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 10,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 10,
+      "load_scope": "por mancuerna",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Realizado sentado con mancuernas, no máquina.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-e5",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-e5",
+      "exercise": "Extensión de tríceps con cuerda",
+      "sets": [
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "polea"
+        },
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "polea"
+        },
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "polea"
+        }
+      ],
+      "reported_load_kg": 80,
+      "load_scope": "polea",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "80 kg transcritos exactamente como los indicó el usuario, pese a diferencia respecto del registro anterior; confirmar unidades del equipo en próxima sesión.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-26|hp261017-w2-d1-v2e7",
+      "date": "2026-10-26",
+      "week": 2,
+      "day": 1,
+      "exercise_id": "hp261017-w2-d1-v2e7",
+      "exercise": "Patada de burro de tríceps en cable",
+      "sets": [
+        {
+          "kg": 15,
+          "reps": 12,
+          "load_scope": "polea unilateral"
+        },
+        {
+          "kg": 15,
+          "reps": 12,
+          "load_scope": "polea unilateral"
+        },
+        {
+          "kg": 15,
+          "reps": 12,
+          "load_scope": "polea unilateral"
+        }
+      ],
+      "reported_load_kg": 15,
+      "load_scope": "polea unilateral",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Corrección explícita del usuario: patada de burro en cable, no extensión unilateral genérica.",
+      "source": "Registro manual enviado por usuario 26/10/2026; corrección de equipamiento y ejercicios"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-c1",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-c1",
+      "exercise": "Abdominales cortitos con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "3 vueltas Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-c2",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-c2",
+      "exercise": "Vitalizaciones con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "3 vueltas Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-c3",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-c3",
+      "exercise": "Buenos días con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 15,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "load_scope": "disco",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "3 vueltas Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-e5",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-e5",
+      "exercise": "Sentadilla libre",
+      "sets": [
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "peso total con barra"
+        },
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "peso total con barra"
+        },
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "peso total con barra"
+        },
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "peso total con barra"
+        }
+      ],
+      "reported_load_kg": 80,
+      "load_scope": "peso total con barra",
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Barra incluida en los 80 kg, según registro previo de sentadilla; confirmar si la barra usada fue distinta. Molestia lateral de cadera durante sentadilla. Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-e1",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-e1",
+      "exercise": "Prensa horizontal Technogym (asiento deslizante)",
+      "sets": [
+        {
+          "kg": 160,
+          "reps": 15,
+          "load_scope": "carga total indicada en máquina"
+        },
+        {
+          "kg": 160,
+          "reps": 15,
+          "load_scope": "carga total indicada en máquina"
+        },
+        {
+          "kg": 160,
+          "reps": 15,
+          "load_scope": "carga total indicada en máquina"
+        }
+      ],
+      "reported_load_kg": 160,
+      "load_scope": "carga total indicada en máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-e2",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-e2",
+      "exercise": "Curl femoral sentado",
+      "sets": [
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 50,
+          "reps": 12,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 50,
+      "load_scope": "máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-e3",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-e3",
+      "exercise": "Extensión de cuádriceps",
+      "sets": [
+        {
+          "kg": 65,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 70,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 75,
+          "reps": 10,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 75,
+      "load_scope": "máquina",
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-27|hp261017-w2-d2-e4",
+      "date": "2026-10-27",
+      "week": 2,
+      "day": 2,
+      "exercise_id": "hp261017-w2-d2-e4",
+      "exercise": "Gemelos de pie",
+      "sets": [
+        {
+          "kg": 35,
+          "reps": 15,
+          "load_scope": "carga informada; equipo no especificado"
+        },
+        {
+          "kg": 40,
+          "reps": 15,
+          "load_scope": "carga informada; equipo no especificado"
+        },
+        {
+          "kg": 45,
+          "reps": 15,
+          "load_scope": "carga informada; equipo no especificado"
+        },
+        {
+          "kg": 50,
+          "reps": 15,
+          "load_scope": "carga informada; equipo no especificado"
+        }
+      ],
+      "reported_load_kg": 50,
+      "load_scope": "carga informada; equipo no especificado",
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Usuario corrige explícitamente gemelos parado, no sentado. No comparar directamente carga con gemelos sentado. Sensaciones generales informadas: normal. Durante la sesión refirió tirón/contractura fuerte sobre cara lateral alta del muslo/cadera, zona ósea trocantérica, con dolor al subir escaleras. No se establece diagnóstico; reevaluar antes de piernas B.",
+      "source": "Registro interactivo confirmado por usuario 27/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-c1",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-c1",
+      "exercise": "Giros con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "disco",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-c2",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-c2",
+      "exercise": "Pullover acostado con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "disco",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-c3",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-c3",
+      "exercise": "Elevaciones de piernas",
+      "sets": [
+        {
+          "kg": 0,
+          "reps": 30,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 30,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 30,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_kg": 0,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "peso corporal",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-e1",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-e1",
+      "exercise": "Jalón al pecho con agarre neutro",
+      "sets": [
+        {
+          "kg": 70,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 75,
+          "reps": 10,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 85,
+          "reps": 8,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 85,
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "load_scope": "máquina",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-e2",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-e2",
+      "exercise": "Remo a un brazo con mancuerna",
+      "sets": [
+        {
+          "kg": 36,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 36,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 36,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 36,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "por mancuerna",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-e3",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-e3",
+      "exercise": "Remo bajo Technogym Low Pull",
+      "sets": [
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 60,
+          "reps": 12,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 60,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "máquina",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-e4",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-e4",
+      "exercise": "Face pull con soga en polea",
+      "sets": [
+        {
+          "kg": 80,
+          "reps": 12,
+          "load_scope": "polea"
+        },
+        {
+          "kg": 85,
+          "reps": 10,
+          "load_scope": "polea"
+        },
+        {
+          "kg": 85,
+          "reps": 10,
+          "load_scope": "polea"
+        }
+      ],
+      "reported_load_kg": 85,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "polea",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-e5",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-e5",
+      "exercise": "Curl con mancuernas",
+      "sets": [
+        {
+          "kg": 20,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 20,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 20,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 20,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "por mancuerna",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-28|hp261017-w2-d3-v2e6",
+      "date": "2026-10-28",
+      "week": 2,
+      "day": 3,
+      "exercise_id": "hp261017-w2-d3-v2e6",
+      "exercise": "Curl martillo sentado en banco a 60° con mancuernas",
+      "sets": [
+        {
+          "kg": 14,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 14,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 14,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 14,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "por mancuerna",
+      "rir": null,
+      "notes": "Sensaciones normal; dolor persistente en zona lateral de cadera tras episodio de sentadillas 27/10. Curl martillo realizado sentado en banco de 60 grados.",
+      "source": "Registro usuario 28/10/2026"
+    },
+    {
+      "id": "2026-10-29|alternative-shoulders-abs-side-cable-pulls",
+      "date": "2026-10-29",
+      "week": 2,
+      "day": 4,
+      "exercise_id": "alternative-shoulders-abs-side-cable-pulls",
+      "exercise": "Tirón lateral cruzado de cintura en polea (manija unilateral)",
+      "sets": [
+        {
+          "kg": 50,
+          "reps": 20,
+          "load_scope": "polea"
+        },
+        {
+          "kg": 50,
+          "reps": 20,
+          "load_scope": "polea"
+        },
+        {
+          "kg": 50,
+          "reps": 20,
+          "load_scope": "polea"
+        }
+      ],
+      "reported_load_kg": 50,
+      "reported_sets": 3,
+      "load_scope": "polea",
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "3 x 20 a 50 kg. Usuario describe tomar la manija y llevar la carga hacia el otro lado, de costado; ejecución independiente y posterior al crunch abdominal en polea. Cadera: dolor persistente. No confundir con vuelos laterales de hombros.",
+      "source": "Registro interactivo 29/10/2026 y aclaración posterior del usuario"
+    },
+    {
+      "id": "2026-10-29|alternative-shoulders-abs-press-dumbbells",
+      "date": "2026-10-29",
+      "week": 2,
+      "day": 4,
+      "exercise_id": "alternative-shoulders-abs-press-dumbbells",
+      "exercise": "Press de hombros sentado con mancuernas",
+      "sets": [
+        {
+          "kg": 26,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 26,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 26,
+      "reported_sets": 2,
+      "load_scope": "por mancuerna",
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Solo series 1 y 2 marcadas completadas; tercera tenía 26 kg precargados pero repeticiones en blanco y casilla sin marcar: no se contabiliza. Cadera: dolor persistente.",
+      "source": "Registro interactivo usuario 29/10/2026"
+    },
+    {
+      "id": "2026-10-29|alternative-shoulders-abs-laterals-dropset",
+      "date": "2026-10-29",
+      "week": 2,
+      "day": 4,
+      "exercise_id": "alternative-shoulders-abs-laterals-dropset",
+      "exercise": "Vuelos laterales sentado con mancuernas — series descendentes",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 10,
+          "load_scope": "por mancuerna",
+          "drop_set_kg": 8,
+          "drop_set_reps": 10,
+          "drop_set_load_scope": "por mancuerna"
+        },
+        {
+          "kg": 12,
+          "reps": 10,
+          "load_scope": "por mancuerna",
+          "drop_set_kg": 8,
+          "drop_set_reps": 10,
+          "drop_set_load_scope": "por mancuerna"
+        },
+        {
+          "kg": 12,
+          "reps": 10,
+          "load_scope": "por mancuerna",
+          "drop_set_kg": 8,
+          "drop_set_reps": 10,
+          "drop_set_load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 12,
+      "reported_sets": 3,
+      "load_scope": "por mancuerna",
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Cada una de las 3 series consistió en 12 kg x10 seguida inmediatamente por 8 kg x10 (drop set). No convertir en 6 series independientes. Cadera: dolor persistente.",
+      "source": "Registro interactivo usuario 29/10/2026"
+    },
+    {
+      "id": "2026-10-29|alternative-shoulders-abs-oblique-form-unverified",
+      "date": "2026-10-29",
+      "week": 2,
+      "day": 4,
+      "exercise_id": "alternative-shoulders-abs-oblique-form-unverified",
+      "exercise": "Crunch abdominal en polea",
+      "sets": [
+        {
+          "kg": 60,
+          "reps": 20,
+          "load_scope": "carga indicada en polea"
+        },
+        {
+          "kg": 60,
+          "reps": 20,
+          "load_scope": "carga indicada en polea"
+        },
+        {
+          "kg": 60,
+          "reps": 20,
+          "load_scope": "carga indicada en polea"
+        }
+      ],
+      "reported_load_kg": 60,
+      "reported_sets": 3,
+      "load_scope": "carga indicada en polea",
+      "record_status": "confirmado",
+      "rir": null,
+      "notes": "Usuario confirmó el 29/10 que fueron 3 series de crunch abdominal en polea a 60 kg y 20 repeticiones por serie, ejercicio diferente de los tirones laterales cruzados en polea realizados después a 50 kg. El valor '060' de la tercera serie se interpretó como 60. Cadera: dolor persistente.",
+      "source": "Registro interactivo 29/10/2026 y aclaración posterior del usuario"
+    }
+  ],
+  "workout_metrics": [
+    {
+      "id": "2026-10-15|apple-watch-strength",
+      "date": "2026-10-15",
+      "week": 4,
+      "day": 4,
+      "activity": "Entrenamiento tradicional de fuerza",
+      "source": "Apple Watch (capturas del usuario)",
+      "start_time": "06:57",
+      "end_time": "07:54",
+      "duration_seconds": 3451,
+      "active_kcal": 286,
+      "total_kcal": 381,
+      "average_heart_rate_bpm": 111,
+      "heart_rate_zones": [
+        {
+          "zone": 1,
+          "seconds": 3212,
+          "range_bpm": "menos de 131"
+        },
+        {
+          "zone": 2,
+          "seconds": 225,
+          "range_bpm": "132-143"
+        },
+        {
+          "zone": 3,
+          "seconds": 0,
+          "range_bpm": "144-154"
+        },
+        {
+          "zone": 4,
+          "seconds": 0,
+          "range_bpm": "155-166"
+        },
+        {
+          "zone": 5,
+          "seconds": 0,
+          "range_bpm": "167 o más"
+        }
+      ],
+      "weather_celsius": 13,
+      "humidity_percent": 93
+    },
+    {
+      "id": "2026-10-16|apple-watch-strength",
+      "date": "2026-10-16",
+      "week": 4,
+      "day": 5,
+      "activity": "Entrenamiento tradicional de fuerza",
+      "source": "Apple Watch (capturas del usuario)",
+      "start_time": "06:58",
+      "end_time": "07:50",
+      "duration_seconds": 3120,
+      "active_kcal": 228,
+      "total_kcal": 314,
+      "average_heart_rate_bpm": 103,
+      "heart_rate_zones": [
+        {
+          "zone": 1,
+          "seconds": 2977,
+          "range_bpm": "menos de 131"
+        },
+        {
+          "zone": 2,
+          "seconds": 61,
+          "range_bpm": "132-143"
+        },
+        {
+          "zone": 3,
+          "seconds": 0,
+          "range_bpm": "144-154"
+        },
+        {
+          "zone": 4,
+          "seconds": 0,
+          "range_bpm": "155-166"
+        },
+        {
+          "zone": 5,
+          "seconds": 0,
+          "range_bpm": "167 o más"
+        }
+      ],
+      "weather_celsius": 11,
+      "humidity_percent": 90
+    },
+    {
+      "id": "2026-10-21|apple-watch-strength",
+      "date": "2026-10-21",
+      "week": 1,
+      "day": 2,
+      "activity": "Entrenamiento tradicional de fuerza",
+      "source": "Apple Watch (capturas del usuario recibidas el 22/10/2026; sesión fechada 21/10/2026)",
+      "start_time": "06:49",
+      "end_time": "07:39",
+      "duration_seconds": 2999,
+      "active_kcal": 250,
+      "total_kcal": 334,
+      "average_heart_rate_bpm": 111,
+      "heart_rate_zones": [
+        {
+          "zone": 1,
+          "seconds": 2675,
+          "range_bpm": "menos de 131"
+        },
+        {
+          "zone": 2,
+          "seconds": 164,
+          "range_bpm": "132-143"
+        },
+        {
+          "zone": 3,
+          "seconds": 91,
+          "range_bpm": "144-154"
+        },
+        {
+          "zone": 4,
+          "seconds": 0,
+          "range_bpm": "155-166"
+        },
+        {
+          "zone": 5,
+          "seconds": 0,
+          "range_bpm": "167 o más"
+        }
+      ],
+      "weather_celsius": 13,
+      "humidity_percent": 79
+    },
+    {
+      "id": "2026-10-23|apple-watch-strength",
+      "date": "2026-10-23",
+      "week": 1,
+      "day": 4,
+      "activity": "Entrenamiento tradicional de fuerza — sesión híbrida Piernas B + Hombros",
+      "source": "Apple Watch (capturas del usuario, 23/10/2026)",
+      "start_time": "06:39",
+      "end_time": "07:36",
+      "duration_seconds": 3419,
+      "active_kcal": 309,
+      "total_kcal": 405,
+      "average_heart_rate_bpm": 116,
+      "heart_rate_zones": [
+        {
+          "zone": 1,
+          "seconds": 2980,
+          "range_bpm": "menos de 131"
+        },
+        {
+          "zone": 2,
+          "seconds": 382,
+          "range_bpm": "132-143"
+        },
+        {
+          "zone": 3,
+          "seconds": 45,
+          "range_bpm": "144-154"
+        },
+        {
+          "zone": 4,
+          "seconds": 0,
+          "range_bpm": "155-166"
+        },
+        {
+          "zone": 5,
+          "seconds": 0,
+          "range_bpm": "167 o más"
+        }
+      ],
+      "weather_celsius": 17,
+      "humidity_percent": 94,
+      "notes": "Viernes 23/10: rutina habitual de jueves (Piernas B) + hombros de viernes como excepción; no se realizó curl femoral sentado."
+    }
+  ]
+}
