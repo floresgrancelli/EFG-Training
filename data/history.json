@@ -3156,7 +3156,7 @@
       "week": 2,
       "day": 4,
       "exercise_id": "alternative-shoulders-abs-side-cable-pulls",
-      "exercise": "Tirón lateral cruzado de cintura en polea (manija unilateral)",
+      "exercise": "Flexión lateral del tronco en polea baja (cable side bend)",
       "sets": [
         {
           "kg": 50,
@@ -3179,8 +3179,8 @@
       "load_scope": "polea",
       "record_status": "confirmado",
       "rir": null,
-      "notes": "3 x 20 a 50 kg. Usuario describe tomar la manija y llevar la carga hacia el otro lado, de costado; ejecución independiente y posterior al crunch abdominal en polea. Cadera: dolor persistente. No confundir con vuelos laterales de hombros.",
-      "source": "Registro interactivo 29/10/2026 y aclaración posterior del usuario"
+      "notes": "Ejercicio confirmado por imagen del usuario: de pie, manija unilateral conectada a polea baja, flexión lateral del tronco frente a resistencia. No es woodchopper ni rotación cruzada. 50 kg × 20 repeticiones × 3 series. Nota: molestia lateral de cadera persistente, evitar si provoca dolor.",
+      "source": "Registro usuario 29/10/2026 y fotografía aclaratoria"
     },
     {
       "id": "2026-10-29|alternative-shoulders-abs-press-dumbbells",
