@@ -3644,7 +3644,7 @@
       "sets": [
         {
           "kg": 80,
-          "reps": null,
+          "reps": 12,
           "load_scope": "polea"
         },
         {
@@ -3661,9 +3661,9 @@
       "reported_load_kg": 80,
       "reported_sets": 3,
       "load_scope": "polea",
-      "record_status": "parcial",
+      "record_status": "confirmado",
       "rir": null,
-      "notes": "La primera serie fue marcada completada (✓), pero no se informó la cantidad de repeticiones. Conservar la serie como ejecutada sin inferir repeticiones. Se hicieron 3 series, aunque el plan sugería 2 opcionales. Cadera: mejorando. Sensación general: normal. Core completo (abdominales cortitos, pullover y plancha) y remo a un brazo no realizados: no se agregan como series de trabajo.",
+      "notes": "Primera serie completada: 80 kg × 12 repeticiones, confirmadas posteriormente por el usuario. Se hicieron 3 series, aunque el plan sugería 2 opcionales. Cadera: mejorando. Sensación general: normal. Core completo (abdominales cortitos, pullover y plancha) y remo a un brazo no realizados: no se agregan como series de trabajo. Aclaración posterior: primera serie 80 kg × 12 repeticiones.",
       "source": "Registro interactivo confirmado por usuario 04/11/2026"
     },
     {
