@@ -4272,6 +4272,275 @@
       "rir": null,
       "notes": "",
       "source": "Registro interactivo confirmado por usuario 11/11/2026"
+    },
+    {
+      "id": "2026-11-16|hp261017-w5-d1-c1",
+      "date": "2026-11-16",
+      "block_id": "hipertrofia-2026-10",
+      "week": 5,
+      "day": 1,
+      "exercise_id": "hp261017-w5-d1-c1",
+      "exercise": "Sit ups con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 20,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "disco",
+      "rir": null,
+      "notes": "",
+      "source": "Registro interactivo confirmado por usuario 16/11/2026 · lunes sin hombros"
+    },
+    {
+      "id": "2026-11-16|hp261017-w5-d1-c2",
+      "date": "2026-11-16",
+      "block_id": "hipertrofia-2026-10",
+      "week": 5,
+      "day": 1,
+      "exercise_id": "hp261017-w5-d1-c2",
+      "exercise": "Abdominales cortitos con disco",
+      "sets": [
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        },
+        {
+          "kg": 12,
+          "reps": 30,
+          "load_scope": "disco"
+        }
+      ],
+      "reported_load_kg": 12,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "disco",
+      "rir": null,
+      "notes": "",
+      "source": "Registro interactivo confirmado por usuario 16/11/2026 · lunes sin hombros"
+    },
+    {
+      "id": "2026-11-16|hp261017-w5-d1-c3",
+      "date": "2026-11-16",
+      "block_id": "hipertrofia-2026-10",
+      "week": 5,
+      "day": 1,
+      "exercise_id": "hp261017-w5-d1-c3",
+      "exercise": "Espinales en colchoneta",
+      "sets": [
+        {
+          "kg": 0,
+          "reps": 20,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 20,
+          "load_scope": "peso corporal"
+        },
+        {
+          "kg": 0,
+          "reps": 20,
+          "load_scope": "peso corporal"
+        }
+      ],
+      "reported_load_kg": 0,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "peso corporal",
+      "rir": null,
+      "notes": "",
+      "source": "Registro interactivo confirmado por usuario 16/11/2026 · lunes sin hombros"
+    },
+    {
+      "id": "2026-11-16|hp261017-w5-d1-e1",
+      "date": "2026-11-16",
+      "block_id": "hipertrofia-2026-10",
+      "week": 5,
+      "day": 1,
+      "exercise_id": "hp261017-w5-d1-e1",
+      "exercise": "Press inclinado con mancuernas",
+      "sets": [
+        {
+          "kg": 32,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 12,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 10,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 32,
+      "reported_sets": 4,
+      "record_status": "confirmado",
+      "load_scope": "por mancuerna",
+      "rir": null,
+      "notes": "",
+      "source": "Registro interactivo confirmado por usuario 16/11/2026 · lunes sin hombros"
+    },
+    {
+      "id": "2026-11-16|hp261017-w5-d1-v2e2",
+      "date": "2026-11-16",
+      "block_id": "hipertrofia-2026-10",
+      "week": 5,
+      "day": 1,
+      "exercise_id": "hp261017-w5-d1-v2e2",
+      "exercise": "Press plano con mancuernas",
+      "sets": [
+        {
+          "kg": 32,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        },
+        {
+          "kg": 32,
+          "reps": 8,
+          "load_scope": "por mancuerna"
+        }
+      ],
+      "reported_load_kg": 32,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "por mancuerna",
+      "rir": null,
+      "notes": "",
+      "source": "Registro interactivo confirmado por usuario 16/11/2026 · lunes sin hombros"
+    },
+    {
+      "id": "2026-11-16|hp261017-w5-d1-e3",
+      "date": "2026-11-16",
+      "block_id": "hipertrofia-2026-10",
+      "week": 5,
+      "day": 1,
+      "exercise_id": "hp261017-w5-d1-e3",
+      "exercise": "Pec deck con apoyo de antebrazos",
+      "sets": [
+        {
+          "kg": 80,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 80,
+          "reps": 12,
+          "load_scope": "máquina"
+        },
+        {
+          "kg": 80,
+          "reps": 12,
+          "load_scope": "máquina"
+        }
+      ],
+      "reported_load_kg": 80,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "máquina",
+      "rir": null,
+      "notes": "Superserie informada por Edu: después de cada una de las 3 series de pec deck, hizo 10 flexiones de brazos (3×10). Se documenta como observación, sin sumar series adicionales al registro de 25 series marcadas.",
+      "source": "Registro interactivo confirmado por usuario 16/11/2026 · lunes sin hombros"
+    },
+    {
+      "id": "2026-11-16|hp261017-w5-d1-e5",
+      "date": "2026-11-16",
+      "block_id": "hipertrofia-2026-10",
+      "week": 5,
+      "day": 1,
+      "exercise_id": "hp261017-w5-d1-e5",
+      "exercise": "Extensión de tríceps con cuerda",
+      "sets": [
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "polea"
+        },
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "polea"
+        },
+        {
+          "kg": 80,
+          "reps": 10,
+          "load_scope": "polea"
+        }
+      ],
+      "reported_load_kg": 80,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "polea",
+      "rir": null,
+      "notes": "",
+      "source": "Registro interactivo confirmado por usuario 16/11/2026 · lunes sin hombros"
+    },
+    {
+      "id": "2026-11-16|hp261017-w5-d1-v2e7",
+      "date": "2026-11-16",
+      "block_id": "hipertrofia-2026-10",
+      "week": 5,
+      "day": 1,
+      "exercise_id": "hp261017-w5-d1-v2e7",
+      "exercise": "Patada de burro de tríceps en cable",
+      "sets": [
+        {
+          "kg": 15,
+          "reps": 12,
+          "load_scope": "polea unilateral"
+        },
+        {
+          "kg": 15,
+          "reps": 12,
+          "load_scope": "polea unilateral"
+        },
+        {
+          "kg": 15,
+          "reps": 12,
+          "load_scope": "polea unilateral"
+        }
+      ],
+      "reported_load_kg": 15,
+      "reported_sets": 3,
+      "record_status": "confirmado",
+      "load_scope": "polea unilateral",
+      "rir": null,
+      "notes": "",
+      "source": "Registro interactivo confirmado por usuario 16/11/2026 · lunes sin hombros"
     }
   ],
   "workout_metrics": [
