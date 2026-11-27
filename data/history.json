@@ -4830,6 +4830,165 @@
       "rir": null,
       "notes": "Observación textual del usuario: «Bíceps hice 20+ 14 en superserie x 12 + fallo». Repeticiones al fallo no cuantificadas; no se agregan series ni repeticiones fuera de lo expresamente marcado. Variante efectivamente realizada: curl martillo sentado en banco a 60°.",
       "source": "Registro interactivo confirmado por usuario 25/11/2026"
+    },
+    {
+      "date": "2026-11-27",
+      "block_id": "hipertrofia-2026-10",
+      "week": 6,
+      "day": 5,
+      "record_status": "confirmado",
+      "rir": null,
+      "source": "Registro verbal confirmado por usuario en chat · 27/11/2026",
+      "id": "2026-11-27|hp261017-w6-d5-v3e7",
+      "exercise_id": "hp261017-w6-d5-v3e7",
+      "exercise": "Remo en Technogym Upper Back",
+      "planned_exercise": "Remo bajo Technogym Low Pull",
+      "sets": [
+        {
+          "kg": 55,
+          "reps": 12,
+          "load_scope": "máquina Technogym Upper Back"
+        },
+        {
+          "kg": 55,
+          "reps": 12,
+          "load_scope": "máquina Technogym Upper Back"
+        },
+        {
+          "kg": 55,
+          "reps": 12,
+          "load_scope": "máquina Technogym Upper Back"
+        }
+      ],
+      "reported_load_kg": 55,
+      "reported_sets": 3,
+      "load_scope": "máquina Technogym Upper Back",
+      "notes": "Sustituyó Remo bajo Technogym Low Pull programado. Máquina Technogym Upper Back identificada por fotografía del usuario. No comparar 55 kg con las cargas de Low Pull ni con las de remo convencional."
+    },
+    {
+      "date": "2026-11-27",
+      "block_id": "hipertrofia-2026-10",
+      "week": 6,
+      "day": 5,
+      "record_status": "confirmado",
+      "rir": null,
+      "source": "Registro verbal confirmado por usuario en chat · 27/11/2026",
+      "id": "2026-11-27|hp261017-w6-d5-v3e8",
+      "exercise_id": "hp261017-w6-d5-v3e8",
+      "exercise": "Curl de bíceps con mancuernas · rest-pause ascendente",
+      "planned_exercise": "Curl Scott",
+      "sets": [
+        {
+          "kg": 20,
+          "reps": 25,
+          "load_scope": "por mancuerna",
+          "technique": "rest-pause ascendente",
+          "rest_pause_blocks": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "rest_between_blocks_seconds": 15,
+          "rest_between_sets_seconds": 180
+        },
+        {
+          "kg": 20,
+          "reps": 25,
+          "load_scope": "por mancuerna",
+          "technique": "rest-pause ascendente",
+          "rest_pause_blocks": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "rest_between_blocks_seconds": 15,
+          "rest_between_sets_seconds": 180
+        },
+        {
+          "kg": 20,
+          "reps": 25,
+          "load_scope": "por mancuerna",
+          "technique": "rest-pause ascendente",
+          "rest_pause_blocks": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "rest_between_blocks_seconds": 15,
+          "rest_between_sets_seconds": 180
+        }
+      ],
+      "reported_load_kg": 20,
+      "reported_sets": 3,
+      "load_scope": "por mancuerna",
+      "notes": "Reemplaza el curl Scott programado. Tres series compuestas, cada una: 3 + 4 + 5 + 6 + 7 = 25 repeticiones con mancuernas de 20 kg cada una, pausas de 15 segundos entre bloques y 3 minutos entre series. No son 15 series independientes. Curl martillo del plan no informado como ejercicio separado."
+    },
+    {
+      "date": "2026-11-27",
+      "block_id": "hipertrofia-2026-10",
+      "week": 6,
+      "day": 5,
+      "record_status": "confirmado",
+      "rir": null,
+      "source": "Registro verbal confirmado por usuario en chat · 27/11/2026",
+      "id": "2026-11-27|hp261017-w6-d5-v3e10",
+      "exercise_id": "hp261017-w6-d5-v3e10",
+      "exercise": "Extensión de tríceps en polea con barra · drop set triple",
+      "planned_exercise": "Press francés con mancuernas",
+      "sets": [
+        {
+          "kg": 70,
+          "reps": 12,
+          "load_scope": "polea con barra",
+          "technique": "drop set triple",
+          "drop_set_kg": 50,
+          "drop_set_reps": 12,
+          "drop_set_load_scope": "polea con barra",
+          "drop_set_2_kg": 30,
+          "drop_set_2_reps": null,
+          "drop_set_2_until_failure": true,
+          "drop_set_2_load_scope": "polea con barra",
+          "confirmed_min_reps": 24
+        },
+        {
+          "kg": 70,
+          "reps": 12,
+          "load_scope": "polea con barra",
+          "technique": "drop set triple",
+          "drop_set_kg": 50,
+          "drop_set_reps": 12,
+          "drop_set_load_scope": "polea con barra",
+          "drop_set_2_kg": 30,
+          "drop_set_2_reps": null,
+          "drop_set_2_until_failure": true,
+          "drop_set_2_load_scope": "polea con barra",
+          "confirmed_min_reps": 24
+        },
+        {
+          "kg": 70,
+          "reps": 12,
+          "load_scope": "polea con barra",
+          "technique": "drop set triple",
+          "drop_set_kg": 50,
+          "drop_set_reps": 12,
+          "drop_set_load_scope": "polea con barra",
+          "drop_set_2_kg": 30,
+          "drop_set_2_reps": null,
+          "drop_set_2_until_failure": true,
+          "drop_set_2_load_scope": "polea con barra",
+          "confirmed_min_reps": 24
+        }
+      ],
+      "reported_load_kg": 70,
+      "reported_sets": 3,
+      "load_scope": "polea con barra",
+      "notes": "Reemplaza el press francés programado. Cada una de tres series compuestas: 70 kg × 12, luego 50 kg × 12, luego 30 kg hasta el fallo (repeticiones no cuantificadas). Son 3 series y no 9. Flexiones de tríceps del plan no informadas como ejercicio independiente."
     }
   ],
   "workout_metrics": [
